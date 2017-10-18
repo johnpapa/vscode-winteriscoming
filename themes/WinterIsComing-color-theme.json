@@ -1,0 +1,248 @@
+{
+	"tokenColors": [
+		{
+			"settings": {
+				"background": "#282822",
+				"foreground": "#bce7ff"
+			}
+		},
+		{
+			"name": "Comment",
+			"scope": "comment",
+			"settings": {
+				"foreground": "#969696"
+			}
+		},
+		{
+			"name": "String",
+			"scope": "string",
+			"settings": {
+				"foreground": "#e0c2ff"
+			}
+		},
+		{
+			"name": "Number",
+			"scope": "constant.numeric",
+			"settings": {
+				"foreground": "#E8B87E"
+			}
+		},
+		{
+			"name": "Built-in constant",
+			"scope": "constant.language",
+			"settings": {
+				"foreground": "#E8B87E"
+			}
+		},
+		{
+			"name": "User-defined constant",
+			"scope": [
+				"constant.character",
+				"constant.other"
+			],
+			"settings": {
+				"foreground": "#E8B87E"
+			}
+		},
+		{
+			"name": "Variable",
+			"scope": "variable",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#a3d9fa"
+			}
+		},
+		{
+			"name": "Keyword",
+			"scope": "keyword",
+			"settings": {
+				"foreground": "#1cc1f4"
+			}
+		},
+		{
+			"name": "Storage",
+			"scope": "storage",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#6dbdfa"
+			}
+		},
+		{
+			"name": "Storage type",
+			"scope": "storage.type",
+			"settings": {
+				"foreground": "#6dbdfa",
+				"fontStyle": " italic "
+			}
+		},
+		{
+			"name": "Class name",
+			"scope": "entity.name.class",
+			"settings": {
+				"foreground": "#f7ecb5"
+			}
+		},
+		{
+			"name": "Inherited class",
+			"scope": "entity.other.inherited-class",
+			"settings": {
+				"fontStyle": "  italic",
+				"foreground": "#4FB4D8"
+			}
+		},
+		{
+			"name": "Function name",
+			"scope": "entity.name.function",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#f7ecb5"
+			}
+		},
+		{
+			"name": "Function argument",
+			"scope": "variable.parameter",
+			"settings": {
+				"foreground": "#f7ecb5",
+				"fontStyle": " italic"
+			}
+		},
+		{
+			"name": "Tag name",
+			"scope": "entity.name.tag",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#6dbdfa"
+			}
+		},
+		{
+			"name": "Tag attribute",
+			"scope": "entity.other.attribute-name",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#f7ecb5"
+			}
+		},
+		{
+			"name": "Library function",
+			"scope": "support.function",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#f7ecb5"
+			}
+		},
+		{
+			"name": "Library constant",
+			"scope": "support.constant",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#E8B87E"
+			}
+		},
+		{
+			"name": "Library class/type",
+			"scope": [
+				"support.type",
+				"support.class"
+			],
+			"settings": {
+				"foreground": "#6dbdfa"
+			}
+		},
+		{
+			"name": "Library variable",
+			"scope": "support.other.variable",
+			"settings": {
+				"foreground": "#CBCDD2"
+			}
+		},
+		{
+			"name": "Invalid",
+			"scope": "invalid",
+			"settings": {
+				"background": "",
+				"fontStyle": " italic bold underline",
+				"foreground": "#6dbdfa"
+			}
+		},
+		{
+			"name": "Invalid deprecated",
+			"scope": "invalid.deprecated",
+			"settings": {
+				"background": "",
+				"foreground": "#6dbdfa",
+				"fontStyle": " bold italic underline"
+			}
+		},
+		{
+			"name": "Lists",
+			"scope": "markup.list",
+			"settings": {
+				"foreground": "#6dbdfa"
+			}
+		},
+		{
+			"name": "Headings",
+			"scope": [
+				"markup.heading punctuation.definition.heading",
+				"entity.name.section"
+			],
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#4FB4D8"
+			}
+		},
+		{
+			"name": "Support",
+			"scope": [
+				"text.html.markdown meta.paragraph meta.link.inline",
+				"text.html.markdown meta.paragraph meta.link.inline punctuation.definition.string.begin.markdown",
+				"text.html.markdown meta.paragraph meta.link.inline punctuation.definition.string.end.markdown"
+			],
+			"settings": {
+				"foreground": "#78bd65"
+			}
+		},
+		{
+			"name": "Quotes",
+			"scope": "markup.quote",
+			"settings": {
+				"foreground": "#78bd65"
+			}
+		},
+		{
+			"name": "Bold",
+			"scope": "markup.bold",
+			"settings": {
+				"fontStyle": "bold",
+				"foreground": "#f7ecb5"
+			}
+		},
+		{
+			"name": "Italic",
+			"scope": [
+				"markup.italic",
+				"punctuation.definition.italic"
+			],
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#E8B87E"
+			}
+		},
+		{
+			"name": "Link Url",
+			"scope": "meta.link",
+			"settings": {
+				"foreground": "#78BD65"
+			}
+		}
+	],
+	"colors": {
+		"editor.background": "#282822",
+		"editorCursor.foreground": "#4fb4d8",
+		"editor.foreground": "#bce7ff",
+		"editorWhitespace.foreground": "#3B3A32",
+		"editor.lineHighlightBackground": "#2F3137",
+		"editor.selectionBackground": "#2F3137"
+	},
+	"name": "Winter Is Coming"
+}

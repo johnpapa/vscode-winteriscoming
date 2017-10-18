@@ -1,0 +1,37 @@
+{
+    "name": "winteriscoming",
+    "displayName": "Winter Is Coming Theme",
+    "description": "Dark theme with fun and bright foreground colors",
+    "icon": "images/winteriscoming-icon.png",
+    "license": "SEE LICENSE IN LICENSE.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/johnpapa/winteriscoming.git"
+    },
+    "galleryBanner": {
+        "color": "#0273D4",
+        "theme": "dark"
+    },
+    "version": "0.0.1",
+    "publisher": "johnpapa",
+    "keywords": [
+        "Theme",
+        "Dark Theme"
+    ],
+    "engines": {
+        "vscode": "^1.17.0"
+    },
+    "categories": [
+        "Themes",
+        "Other"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Winter Is Coming",
+                "uiTheme": "vs-dark",
+                "path": "./themes/WinterIsComing-color-theme.json"
+            }
+        ]
+    }
+}
