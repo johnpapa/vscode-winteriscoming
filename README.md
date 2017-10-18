@@ -11,3 +11,8 @@ See the [CHANGELOG](CHANGELOG.md) for the latest changes
 ## Usage
 
 Select the theme and go!
+
+## Credits
+
+Credit where credit is due ... this theme was ionspired by the themes Visual Studio Dark+, Monokai and [Dustin Sander's theme for "An Old Hope"](https://marketplace.visualstudio.com/items?itemName=dustinsanders.an-old-hope-theme-vscode)
+
