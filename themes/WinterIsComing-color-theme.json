@@ -242,7 +242,9 @@
 		"editor.foreground": "#bce7ff",
 		"editorWhitespace.foreground": "#3B3A32",
 		"editor.lineHighlightBackground": "#2F3137",
-		"editor.selectionBackground": "#2F3137"
+		"editor.selectionBackground": "#2F3137",
+		"git.color.modified": "#ff8400",
+		"git.color.untracked": "#1db000"
 	},
 	"name": "Winter Is Coming"
 }
