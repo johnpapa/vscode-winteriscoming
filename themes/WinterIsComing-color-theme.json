@@ -29,7 +29,7 @@
 		},
 		{
 			"name": "Built-in constant",
-			"scope": "constant.language",
+			"scope": "language.method",
 			"settings": {
 				"foreground": "#E8B87E"
 			}
@@ -49,14 +49,15 @@
 			"scope": "variable",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#a3d9fa"
+				"foreground": "#96d5f9"
 			}
 		},
 		{
 			"name": "Keyword",
 			"scope": "keyword",
 			"settings": {
-				"foreground": "#1cc1f4"
+				"fontStyle": "",
+				"foreground": "#00bff9"
 			}
 		},
 		{
@@ -72,7 +73,7 @@
 			"scope": "storage.type",
 			"settings": {
 				"foreground": "#6dbdfa",
-				"fontStyle": " italic "
+				"fontStyle": ""
 			}
 		},
 		{
@@ -86,7 +87,7 @@
 			"name": "Inherited class",
 			"scope": "entity.other.inherited-class",
 			"settings": {
-				"fontStyle": "  italic",
+				"fontStyle": "",
 				"foreground": "#4FB4D8"
 			}
 		},
@@ -102,8 +103,8 @@
 			"name": "Function argument",
 			"scope": "variable.parameter",
 			"settings": {
-				"foreground": "#f7ecb5",
-				"fontStyle": " italic"
+				"foreground": "#da71b3",
+				"fontStyle": ""
 			}
 		},
 		{
@@ -243,8 +244,7 @@
 		"editorWhitespace.foreground": "#3B3A32",
 		"editor.lineHighlightBackground": "#2F3137",
 		"editor.selectionBackground": "#2F3137",
-		"git.color.modified": "#ff8400",
-		"git.color.untracked": "#1db000"
+		"git.color.modified": "#219fd5"
 	},
 	"name": "Winter Is Coming"
 }
