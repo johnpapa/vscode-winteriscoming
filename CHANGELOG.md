@@ -1,7 +1,7 @@
 ## Winter is Coming theme Changelog
 
-<a name="0.1.2"></a>
-# 0.1.2 (2017-10-20)
+<a name="0.1.4"></a>
+# 0.1.4 (2017-10-20)
 
 * Centered icon and reversed background
 * Removed italics from most code
