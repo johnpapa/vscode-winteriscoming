@@ -243,8 +243,14 @@
 		"editor.foreground": "#bce7ff",
 		"editorWhitespace.foreground": "#3B3A32",
 		"editor.lineHighlightBackground": "#2F3137",
-		"editor.selectionBackground": "#2F3137",
-		"git.color.modified": "#219fd5"
+		"editor.selectionBackground": "#44464b",
+		"git.color.modified": "#219fd5",
+		"peekView.border": "#f7ecb5",
+		"peekViewEditor.matchHighlightBackground": "#2F3137",
+		"peekViewResult.lineForeground": "#219fd5",
+		"peekViewEditor.background": "#353535",
+		"peekViewEditorGutter.background": "#353535",
+		"peekViewResult.background": "#353535"
 	},
 	"name": "Winter Is Coming"
 }
