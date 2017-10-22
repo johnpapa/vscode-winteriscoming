@@ -1,5 +1,17 @@
 ## Winter is Coming theme Changelog
 
+<a name="0.2.0"></a>
+# 0.2.0 (2017-10-22)
+
+* activity bar icons are blue
+* line numbers are blue
+* debugbar is lighter gray/black for contrast
+* statusbar is same shade of blue as the theme
+* debug statusbar is same shade of red/pink as the theme
+* minor contrast adjustments
+* peekview and find all references view now have better contrast
+* peekview and find all references view has distinct border
+
 <a name="0.1.4"></a>
 # 0.1.4 (2017-10-20)
 
