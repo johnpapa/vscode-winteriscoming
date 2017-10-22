@@ -238,19 +238,27 @@
 		}
 	],
 	"colors": {
+		"activityBar.foreground": "#99d0f7",
+		"debugToolBar.background": "#44464b",
 		"editor.background": "#282822",
-		"editorCursor.foreground": "#4fb4d8",
 		"editor.foreground": "#bce7ff",
-		"editorWhitespace.foreground": "#3B3A32",
 		"editor.lineHighlightBackground": "#2F3137",
+		"editor.lineHighlightBorder": "#44464b",
 		"editor.selectionBackground": "#44464b",
+		"editorCursor.foreground": "#4fb4d8",
+		"editorLineNumber.foreground": "#219fd5",
+		"editorWhitespace.foreground": "#3B3A32",
 		"git.color.modified": "#219fd5",
 		"peekView.border": "#f7ecb5",
 		"peekViewEditor.matchHighlightBackground": "#2F3137",
 		"peekViewResult.lineForeground": "#219fd5",
 		"peekViewEditor.background": "#353535",
 		"peekViewEditorGutter.background": "#353535",
-		"peekViewResult.background": "#353535"
+		"peekViewResult.background": "#353535",
+		"sideBar.border": "#353535",
+		"statusBar.debuggingBackground": "#b15a91",
+		"statusBar.background": "#219fd5",
+		"tab.inactiveBackground": "#333333"
 	},
 	"name": "Winter Is Coming"
 }
