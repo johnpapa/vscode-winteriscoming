@@ -9,6 +9,70 @@
       }
     },
     {
+      "scope": ["meta.paragraph.markdown", "string.other.link.description.title.markdown"],
+      "settings": {
+        "foreground": "#EEFFFF"
+      }
+    },
+    {
+      "scope": ["entity.name.section.markdown", "punctuation.definition.heading.markdown"],
+      "settings": {
+        "foreground": "#5ABEB0"
+      }
+    },
+    {
+      "scope": ["markup.italic.markdown", "punctuation.definition.italic.markdown"],
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#C792EA"
+      }
+    },
+    {
+      "scope": [
+        "punctuation.definition.string.begin.markdown",
+        "punctuation.definition.string.end.markdown",
+        "markup.quote.markdown"
+      ],
+      "settings": {
+        "foreground": "#82AAFF"
+      }
+    },
+    {
+      "scope": ["markup.quote.markdown"],
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#82AAFF"
+      }
+    },
+    {
+      "scope": ["markup.bold.markdown", "punctuation.definition.bold.markdown"],
+      "settings": {
+        "fontStyle": "bold",
+        "foreground": "#FFCB6B"
+      }
+    },
+    {
+      "scope": [
+        "punctuation.definition.metadata.markdown"
+      ],
+      "settings": {
+        "foreground": "#FF5370"
+      }
+    },
+    {
+      "scope": ["markup.underline.link.image.markdown", "markup.underline.link.markdown"],
+      "settings": {
+        "foreground": "#6dbdfa"
+      }
+    },
+    {
+      "scope": [],
+      "settings": {
+        "foreground": "#5ABEB0"
+      }
+    },
+
+    {
       "name": "Comment",
       "scope": "comment",
       "settings": {
