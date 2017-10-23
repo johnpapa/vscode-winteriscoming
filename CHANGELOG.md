@@ -1,5 +1,11 @@
 ## Winter is Coming theme Changelog
 
+<a name="0.2.1"></a>
+# 0.2.1 (2017-10-23)
+
+* sidebar list selection is same blue as theme
+* added light green accents to git untracked badge
+
 <a name="0.2.0"></a>
 # 0.2.0 (2017-10-22)
 
