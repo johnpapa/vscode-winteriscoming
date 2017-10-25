@@ -65,12 +65,6 @@
         "foreground": "#6dbdfa"
       }
     },
-    {
-      "scope": [],
-      "settings": {
-        "foreground": "#5ABEB0"
-      }
-    },
 
     {
       "name": "Comment",
