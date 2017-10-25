@@ -22,14 +22,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Winter Is Coming",
+        "label": "Winter is Coming - Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/WinterIsComing-color-theme.json"
       },
       {
-        "label": "Autumn Is Coming",
+        "label": "Winter is Coming - Light",
         "uiTheme": "vs",
-        "path": "./themes/AutumnIsComing-color-theme.json"
+        "path": "./themes/WinterIsComing-light-color-theme.json"
       }
     ]
   }
