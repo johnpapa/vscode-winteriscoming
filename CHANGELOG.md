@@ -1,5 +1,11 @@
 ## Winter is Coming theme Changelog
 
+<a name="0.3.0"></a>
+# 0.3.0 (2017-10-26)
+
+* Renamed theme to "Winter is Coming (dark)"
+* Added a first draft of a light theme
+
 <a name="0.2.1"></a>
 # 0.2.1 (2017-10-23)
 

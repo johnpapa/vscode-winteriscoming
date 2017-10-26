@@ -103,7 +103,7 @@
       "scope": "variable",
       "settings": {
         "fontStyle": "",
-        "foreground": "#a025dd"
+        "foreground": "#256fdd"
       }
     },
     {
@@ -303,9 +303,9 @@
     "debugToolBar.background": "#BBB9B4",
     "editor.background": "#F3F3F3",
     "editor.foreground": "#236ebf",
-    "editor.lineHighlightBackground": "#D0CEC8",
-    "editor.lineHighlightBorder": "#BBB9B4",
-    "editor.selectionBackground": "#BBB9B4",
+    "editor.lineHighlightBackground": "#e7e7e7",
+    "editor.lineHighlightBorder": "#e3e3e3",
+    "editor.selectionBackground": "#cee1f0",
     "editorCursor.foreground": "#4fb4d8",
     "editorLineNumber.foreground": "#2f86d2",
     "editorWhitespace.foreground": "#C4C5CD",
@@ -314,10 +314,10 @@
     "peekView.border": "#08134A",
     "peekViewEditor.matchHighlightBackground": "#D0CEC8",
     "peekViewResult.lineForeground": "#2f86d2",
-    "peekViewEditor.background": "#CACACA",
-    "peekViewEditorGutter.background": "#CACACA",
-    "peekViewResult.background": "#CACACA",
-    "sideBar.border": "#CACACA",
+    "peekViewEditor.background": "#e3e3e3",
+    "peekViewEditorGutter.background": "#e3e3e3",
+    "peekViewResult.background": "#e3e3e3",
+    "sideBar.border": "#e3e3e3",
     "sideBar.background": "#F3F3F3",
     "list.activeSelectionBackground": "#2f86d2",
     "statusBar.debuggingBackground": "#b15a91",

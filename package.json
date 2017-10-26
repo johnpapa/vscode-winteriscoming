@@ -1,7 +1,7 @@
 {
   "name": "winteriscoming",
   "displayName": "Winter Is Coming Theme",
-  "description": "Dark theme with fun and bright foreground colors",
+  "description": "Dark theme with fun and bright foreground colors. Accompanying light theme, too",
   "icon": "images/winteriscoming-icon.png",
   "license": "SEE LICENSE IN LICENSE.md",
   "repository": {
@@ -12,9 +12,9 @@
     "color": "#373436",
     "theme": "dark"
   },
-  "version": "0.2.1",
+  "version": "0.3.0",
   "publisher": "johnpapa",
-  "keywords": ["Theme", "Dark Theme"],
+  "keywords": ["Theme", "Dark Theme", "Light Theme"],
   "engines": {
     "vscode": "^1.17.0"
   },
