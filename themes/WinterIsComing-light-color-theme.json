@@ -103,7 +103,7 @@
       "scope": "variable",
       "settings": {
         "fontStyle": "",
-        "foreground": "#8418ba"
+        "foreground": "#a025dd"
       }
     },
     {
@@ -111,7 +111,7 @@
       "scope": "variable.language.this",
       "settings": {
         "fontStyle": "",
-        "foreground": "#493ec9"
+        "foreground": "#45435e"
       }
     },
     {
@@ -119,7 +119,7 @@
       "scope": "keyword",
       "settings": {
         "fontStyle": "",
-        "foreground": "#236ebf"
+        "foreground": "#5a09b6"
       }
     },
     {
@@ -134,7 +134,7 @@
       "name": "Storage type",
       "scope": "storage.type",
       "settings": {
-        "foreground": "#8921c1",
+        "foreground": "#0991b6",
         "fontStyle": ""
       }
     },
