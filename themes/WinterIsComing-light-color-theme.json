@@ -111,7 +111,7 @@
       "scope": "variable.language.this",
       "settings": {
         "fontStyle": "",
-        "foreground": "#45435e"
+        "foreground": "#000000"
       }
     },
     {
@@ -158,7 +158,7 @@
       "scope": "entity.name.function",
       "settings": {
         "fontStyle": "",
-        "foreground": "#2c8156"
+        "foreground": "#b1108e"
       }
     },
     {
@@ -301,7 +301,7 @@
   "colors": {
     "activityBar.foreground": "#99d0f7",
     "debugToolBar.background": "#BBB9B4",
-    "editor.background": "#F3F3F3",
+    "editor.background": "#FFFFFF",
     "editor.foreground": "#236ebf",
     "editor.lineHighlightBackground": "#e7e7e7",
     "editor.lineHighlightBorder": "#e3e3e3",

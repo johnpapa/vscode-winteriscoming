@@ -1,5 +1,10 @@
 ## Winter is Coming theme Changelog
 
+<a name="0.3.1"></a>
+# 0.3.1 (2017-10-31)
+
+* Updated light color them for `this`
+
 <a name="0.3.0"></a>
 # 0.3.0 (2017-10-26)
 
