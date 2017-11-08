@@ -103,7 +103,7 @@
       "scope": "variable",
       "settings": {
         "fontStyle": "",
-        "foreground": "#256fdd"
+        "foreground": "#3483f0"
       }
     },
     {
@@ -174,7 +174,7 @@
       "scope": "entity.name.tag",
       "settings": {
         "fontStyle": "",
-        "foreground": "#750bc1"
+        "foreground": "#0444ac"
       }
     },
     {
@@ -190,7 +190,7 @@
       "scope": "entity.other.attribute-name",
       "settings": {
         "fontStyle": "",
-        "foreground": "#168c67"
+        "foreground": "#df8618"
       }
     },
     {
@@ -213,7 +213,7 @@
       "name": "Library class/type",
       "scope": ["support.type", "support.class"],
       "settings": {
-        "foreground": "#327a16"
+        "foreground": "#dc3eb7"
       }
     },
     {
