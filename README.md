@@ -63,6 +63,10 @@ Some styles in VS Code aren't controlled by the `settings.json`.
 1. Select `enable custom CSS and JS`
 1. Reload VS Code
 
+## Fonts
+
+I am using a paid font titled `Operator Mono`. If you do not have that font, the settings above will move along to Fira Code or Inconsolata, until it finds an installed font.
+
 ## Feedback
 
 If you have suggestions, please [open an issue](https://github.com/johnpapa/vscode-winteriscoming/issues) or better yet, a [pull request](https://github.com/johnpapa/vscode-winteriscoming/pulls).
