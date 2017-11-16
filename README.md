@@ -52,6 +52,17 @@ Select the theme and go!
 }
 ```
 
+## Extra Customizations
+
+Some styles in VS Code aren't controlled by the `settings.json`.
+
+1. install [`Custom CSS and JS Loader` extension](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css)
+1. Create a file on your computer to hold your custom CSS named `~/.vscodestyles.css`
+1. Copy everything in [`.custom-vscodestyles.css`](./.custom-vscodestyles.css) into your file
+1. Open your command palette
+1. Select `enable custom CSS and JS`
+1. Reload VS Code
+
 ## Feedback
 
 If you have suggestions, please [open an issue](https://github.com/johnpapa/vscode-winteriscoming/issues) or better yet, a [pull request](https://github.com/johnpapa/vscode-winteriscoming/pulls).
@@ -60,7 +71,7 @@ Be nice.
 
 ## Credits
 
-Credit where credit is due ... this theme was inspired by the themes Visual Studio Dark+, Monokai and [Dustin Sander's theme for "An Old Hope"](https://marketplace.visualstudio.com/items?itemName=dustinsanders.an-old-hope-theme-vscode)
+Credit where credit is due ... this theme was inspired by the themes Visual Studio Dark+, Monokai and [Dustin Sander's theme for "An Old Hope"](https://marketplace.visualstudio.com/items?itemName=dustinsanders.an-old-hope-theme-vscode). Custom CSS inspired by Wes Bos.
 
 ## Authors
 
