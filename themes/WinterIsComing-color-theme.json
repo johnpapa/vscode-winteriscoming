@@ -52,9 +52,7 @@
       }
     },
     {
-      "scope": [
-        "punctuation.definition.metadata.markdown"
-      ],
+      "scope": ["punctuation.definition.metadata.markdown"],
       "settings": {
         "foreground": "#FF5370"
       }
@@ -70,7 +68,8 @@
       "name": "Comment",
       "scope": "comment",
       "settings": {
-        "foreground": "#969696"
+        "fontStyle": "italic",
+        "foreground": "#7fad64"
       }
     },
     {
@@ -84,21 +83,28 @@
       "name": "Number",
       "scope": "constant.numeric",
       "settings": {
-        "foreground": "#E8B87E"
+        "foreground": "#ec9cd2"
+      }
+    },
+    {
+      "name": "Constant",
+      "scope": "constant",
+      "settings": {
+        "foreground": "#ec9cd2"
       }
     },
     {
       "name": "Built-in constant",
       "scope": "language.method",
       "settings": {
-        "foreground": "#E8B87E"
+        "foreground": "#ec9cd2"
       }
     },
     {
       "name": "User-defined constant",
       "scope": ["constant.character", "constant.other"],
       "settings": {
-        "foreground": "#E8B87E"
+        "foreground": "#ec9cd2"
       }
     },
     {
@@ -173,10 +179,17 @@
       }
     },
     {
+      "name": "Entity Name Type",
+      "scope": "entity.name.type",
+      "settings": {
+        "foreground": "#6dbdfa"
+      }
+    },
+    {
       "name": "Tag attribute",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "fontStyle": "",
+        "fontStyle": "italic",
         "foreground": "#f7ecb5"
       }
     },
@@ -193,7 +206,7 @@
       "scope": "support.constant",
       "settings": {
         "fontStyle": "",
-        "foreground": "#E8B87E"
+        "foreground": "#ec9cd2"
       }
     },
     {
@@ -226,6 +239,20 @@
         "background": "",
         "foreground": "#6dbdfa",
         "fontStyle": " bold italic underline"
+      }
+    },
+    {
+      "name": "[JSON] - Support",
+      "scope": "source.json support",
+      "settings": {
+        "foreground": "#6dbdfa"
+      }
+    },
+    {
+      "name": "[JSON] - String",
+      "scope": ["source.json string", "source.json punctuation.definition.string"],
+      "settings": {
+        "foreground": "#ece7cd"
       }
     },
     {

@@ -67,6 +67,7 @@
       "name": "Comment",
       "scope": "comment",
       "settings": {
+        "fontStyle": "italic",
         "foreground": "#68886e"
       }
     },
@@ -80,6 +81,13 @@
     {
       "name": "Number",
       "scope": "constant.numeric",
+      "settings": {
+        "foreground": "#174781"
+      }
+    },
+    {
+      "name": "Constant",
+      "scope": "constant",
       "settings": {
         "foreground": "#174781"
       }
@@ -186,10 +194,17 @@
       }
     },
     {
+      "name": "Entity Name Type",
+      "scope": "entity.name.type",
+      "settings": {
+        "foreground": "#0444ac"
+      }
+    },
+    {
       "name": "Tag attribute",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "fontStyle": "",
+        "fontStyle": "italic",
         "foreground": "#df8618"
       }
     },
@@ -242,6 +257,19 @@
       }
     },
     {
+      "name": "[JSON] - Support",
+      "scope": "source.json support",
+      "settings": {
+        "foreground": "#6dbdfa"
+      }
+    },
+    {
+      "name": "[JSON] - String",
+      "scope": ["source.json string", "source.json punctuation.definition.string"],
+      "settings": {
+        "foreground": "#ece7cd"
+      }
+    },    {
       "name": "Lists",
       "scope": "markup.list",
       "settings": {
