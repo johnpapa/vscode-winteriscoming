@@ -49,10 +49,21 @@
   border-top: 0.1px solid #f7ecb5;
   border-bottom: 0.1px solid #f7ecb5;
   background: transparent;
-  /* background: #33332b; */
 }
 
 /* This accounts for larger font cutting off - bump up 3px */
 .monaco-workbench>.activitybar>.content .monaco-action-bar .badge .badge-content {
   top: 17px !important;
+}
+
+.vs-dark .monaco-panel-view .panel>.panel-header>.title {
+  font-weight: normal;
+}
+.vs-dark .monaco-workbench>.part.titlebar>.window-title {
+  color: #f7ecb5;
+}
+
+.vs-dark .monaco-workbench .debug-actions-widget {
+  border-top: 1px solid #f7ecb5;
+  border-bottom: 1px solid #f7ecb5;
 }
