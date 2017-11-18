@@ -46,10 +46,10 @@
 */
 .monaco-editor .findMatch,
 .monaco-editor .selectionHighlight {
-  border-top: 0.5px solid #f7ecb5;
-  border-bottom: 0.5px solid #f7ecb5;
-  /* background: transparent; */
-  background: #33332b;
+  border-top: 0.1px solid #f7ecb5;
+  border-bottom: 0.1px solid #f7ecb5;
+  background: transparent;
+  /* background: #33332b; */
 }
 
 /* This accounts for larger font cutting off - bump up 3px */
