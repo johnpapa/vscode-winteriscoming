@@ -1,9 +1,13 @@
 ## Winter is Coming theme Changelog
 
-<a name="0.4.3"></a>
-# 0.4.3 (2017-11-18)
+<a name="0.4.4"></a>
+# 0.4.4 (2017-11-18)
 
 * Changes
+  * Updated the `.custom-vscodestyles.css`
+    * to only affect dark theme where appropriate
+    * make titlebar font yellow
+    * yellow top and bottom border on debug bar
   * Removed the `editor.lineHighlightBorder` as it was hiding the cursor in some cases
   * Lightened `lineHighlightBackground` for light theme
   * Updated description
