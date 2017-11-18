@@ -4,7 +4,6 @@
   "tokenColors": [
     {
       "settings": {
-        "background": "#D7D7DD",
         "foreground": "#002339"
       }
     },
@@ -242,7 +241,6 @@
       "name": "Invalid",
       "scope": "invalid",
       "settings": {
-        "background": "",
         "fontStyle": " italic bold underline",
         "foreground": "#207bb8"
       }
@@ -251,7 +249,6 @@
       "name": "Invalid deprecated",
       "scope": "invalid.deprecated",
       "settings": {
-        "background": "",
         "foreground": "#207bb8",
         "fontStyle": " bold italic underline"
       }
@@ -267,7 +264,7 @@
       "name": "[JSON] - String",
       "scope": ["source.json string", "source.json punctuation.definition.string"],
       "settings": {
-        "foreground": "#ece7cd"
+        "foreground": "#00820f"
       }
     },    {
       "name": "Lists",
@@ -331,14 +328,13 @@
     "debugToolBar.background": "#BBB9B4",
     "editor.background": "#FFFFFF",
     "editor.foreground": "#236ebf",
-    "editor.lineHighlightBackground": "#e7e7e7",
-    "editor.lineHighlightBorder": "#e3e3e3",
+    "editor.lineHighlightBackground": "#eff2ef",
     "editor.selectionBackground": "#cee1f0",
     "editorCursor.foreground": "#4fb4d8",
     "editorLineNumber.foreground": "#2f86d2",
     "editorWhitespace.foreground": "#C4C5CD",
-    "git.color.modified": "#2f86d2",
-    "git.color.untracked": "#5ABEB0",
+    "gitDecoration.modifiedResourceForeground": "#2f86d2",
+    "gitDecoration.untrackedResourceForeground": "#5ABEB0",
     "peekView.border": "#08134A",
     "peekViewEditor.matchHighlightBackground": "#D0CEC8",
     "peekViewResult.lineForeground": "#2f86d2",

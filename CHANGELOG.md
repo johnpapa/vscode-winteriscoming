@@ -1,5 +1,18 @@
 ## Winter is Coming theme Changelog
 
+<a name="0.4.1"></a>
+# 0.4.1 (2017-11-18)
+
+* Changes
+  * Removed the `editor.lineHighlightBorder` as it was hiding the cursor in some cases
+  * Lightened `lineHighlightBackground` for light theme
+
+* Fixes
+  * Fexed JSON string color for light them
+  * Updated to the new name for `gitDecoration.modifiedResourceForeground`
+  * Updated to the new name for `gitDecoration.untrackedResourceForeground`
+  * Removed obsolete styles
+
 <a name="0.4.0"></a>
 # 0.4.0 (2017-11-16)
 

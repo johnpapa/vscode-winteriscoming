@@ -4,7 +4,6 @@
   "tokenColors": [
     {
       "settings": {
-        "background": "#282822",
         "foreground": "#bce7ff"
       }
     },
@@ -227,7 +226,6 @@
       "name": "Invalid",
       "scope": "invalid",
       "settings": {
-        "background": "",
         "fontStyle": " italic bold underline",
         "foreground": "#6dbdfa"
       }
@@ -236,7 +234,6 @@
       "name": "Invalid deprecated",
       "scope": "invalid.deprecated",
       "settings": {
-        "background": "",
         "foreground": "#6dbdfa",
         "fontStyle": " bold italic underline"
       }
@@ -318,13 +315,12 @@
     "editor.background": "#282822",
     "editor.foreground": "#bce7ff",
     "editor.lineHighlightBackground": "#2F3137",
-    "editor.lineHighlightBorder": "#44464b",
-    "editor.selectionBackground": "#44464b",
+    "editor.selectionBackground": "#3a3a3a",
     "editorCursor.foreground": "#4fb4d8",
     "editorLineNumber.foreground": "#219fd5",
     "editorWhitespace.foreground": "#3B3A32",
-    "git.color.modified": "#219fd5",
-    "git.color.untracked": "#5ABEB0",
+    "gitDecoration.modifiedResourceForeground": "#219fd5",
+    "gitDecoration.untrackedResourceForeground": "#5ABEB0",
     "peekView.border": "#f7ecb5",
     "peekViewEditor.matchHighlightBackground": "#2F3137",
     "peekViewResult.lineForeground": "#219fd5",
