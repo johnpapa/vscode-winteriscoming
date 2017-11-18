@@ -9,7 +9,7 @@
   * Updated description
 
 * Fixes
-  * Fexed JSON string color for light them
+  * Fixed JSON string color for light them
   * Updated to the new name for `gitDecoration.modifiedResourceForeground`
   * Updated to the new name for `gitDecoration.untrackedResourceForeground`
   * Removed obsolete styles
