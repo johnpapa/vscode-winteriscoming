@@ -1,12 +1,12 @@
 ## Winter is Coming theme Changelog
 
-<a name="0.4.2"></a>
-# 0.4.2 (2017-11-18)
+<a name="0.4.3"></a>
+# 0.4.3 (2017-11-18)
 
 * Changes
   * Removed the `editor.lineHighlightBorder` as it was hiding the cursor in some cases
   * Lightened `lineHighlightBackground` for light theme
-  * Added emoji and updated description
+  * Updated description
 
 * Fixes
   * Fexed JSON string color for light them

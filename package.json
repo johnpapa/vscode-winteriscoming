@@ -1,7 +1,7 @@
 {
   "name": "winteriscoming",
   "displayName": "Winter is Coming Theme",
-  "description": "🐺 Preferred dark/light themes by John Papa 🐺",
+  "description": "Preferred dark/light themes by John Papa",
   "icon": "images/winteriscoming-icon.png",
   "license": "SEE LICENSE IN LICENSE.md",
   "repository": {
@@ -12,7 +12,7 @@
     "color": "#373436",
     "theme": "dark"
   },
-  "version": "0.4.2",
+  "version": "0.4.3",
   "publisher": "johnpapa",
   "keywords": ["Theme", "Dark Theme", "Light Theme"],
   "engines": {
