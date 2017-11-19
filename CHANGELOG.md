@@ -1,9 +1,10 @@
 ## Winter is Coming theme Changelog
 
-<a name="0.4.4"></a>
-# 0.4.4 (2017-11-18)
+<a name="0.4.5"></a>
+# 0.4.5 (2017-11-18)
 
 * Changes
+  * Comments are now gray
   * Updated the `.custom-vscodestyles.css`
     * to only affect dark theme where appropriate
     * make titlebar font yellow
