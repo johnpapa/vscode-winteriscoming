@@ -67,3 +67,7 @@
   border-top: 1px solid #b15a91;
   border-bottom: 1px solid #b15a91;
 }
+
+.monaco-scrollable-element.mac {
+  font-style: italic;
+}
