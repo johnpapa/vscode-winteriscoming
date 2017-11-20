@@ -2,6 +2,7 @@
 
 .monaco-shell {
   font-family: "Operator Mono", "Fira code", "Inconsolata", monospace;
+  letter-spacing: .5px;
 }
 
 /*
@@ -58,8 +59,79 @@
 
 .vs-dark .monaco-panel-view .panel>.panel-header>.title {
   font-weight: normal;
+  letter-spacing: 1px;
 }
 .vs-dark .monaco-workbench>.part.titlebar>.window-title {
+  /* color: #f7ecb5; */
+}
+
+.vs-dark .monaco-workbench .debug-actions-widget {
+  border-top: 1px solid #b15a91;
+  border-bottom: 1px solid #b15a91;
+}
+
+/* Styles in here based on Wes Bos's Cobalt2 custom styles */
+
+.monaco-shell {
+  font-family: 'Operator Mono', 'Fira code', 'Inconsolata', monospace;
+}
+
+/*
+  Fat Cursor.
+  This overwrites the "underline thin" style since that is one that can be styled with CSS
+  So set your settings to:
+  "editor.cursorStyle": "underline-thin",
+*/
+.monaco-editor .cursors-layer.cursor-underline-thin-style > .cursor {
+  border-bottom-width: 0;
+  border-left-width: 3px;
+  border-left-style: solid;
+  background: transparent !important;
+  box-sizing: border-box;
+}
+
+/* This makes the dirty tab circle light yellow */
+.vs-dark
+  .monaco-workbench
+  > .part.editor
+  > .content
+  > .one-editor-silo
+  > .container
+  > .title
+  .tabs-container
+  > .tab.dirty
+  .close-editor-action {
+  background: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' height='16' width='16'%3E%3Ccircle fill='%23f7ecb5' cx='8' cy='8' r='4'/%3E%3C/svg%3E")
+    50% no-repeat;
+}
+
+.monaco-workbench > .editor > .content > .one-editor-silo {
+  border-top: 1px solid #15232d !important;
+}
+
+.one-editor-silo + .one-editor-silo {
+  border-left: 1px solid #15232d !important;
+}
+
+/*
+  This puts a thin yellow border around the found items like Sublime did it
+*/
+.monaco-editor .findMatch,
+.monaco-editor .selectionHighlight {
+  border-top: 0.1px solid #f7ecb5;
+  border-bottom: 0.1px solid #f7ecb5;
+  background: transparent;
+}
+
+/* This accounts for larger font cutting off - bump up 3px */
+.monaco-workbench > .activitybar > .content .monaco-action-bar .badge .badge-content {
+  top: 17px !important;
+}
+
+.vs-dark .monaco-panel-view .panel > .panel-header > .title {
+  font-weight: normal;
+}
+.vs-dark .monaco-workbench > .part.titlebar > .window-title {
   color: #f7ecb5;
 }
 
@@ -68,6 +140,6 @@
   border-bottom: 1px solid #b15a91;
 }
 
-.monaco-scrollable-element.mac {
+.monaco-workbench .tabs-container .tab * {
   font-style: italic;
 }

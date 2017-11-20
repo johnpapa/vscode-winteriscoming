@@ -5,19 +5,31 @@
 
 * Changes
   * debug bar border now matches debug status bar
+  * light theme
+    * `untrackedResourceForeground` is now clearer shade of green
+    * `comment` is now clearer shade of green
+    * `keyword` is now clearer shade of purple
+    * `variable` is now clearer shade of blue
+
+* These changes only apply to `.custom-vscodestyles.css`
+  * italicized file tab font
+  * default monaco `letter-spacing: .5px`
+  * monaco panel title bar `letter-spacing: 1px;`
+  * vs code's window title `color: #fafafa; letter-spacing: 1px; font-weight: 200;`
 
 <a name="0.4.5"></a>
 # 0.4.5 (2017-11-18)
 
 * Changes
   * Comments are now gray
-  * Updated the `.custom-vscodestyles.css`
-    * to only affect dark theme where appropriate
-    * make titlebar font yellow
-    * yellow top and bottom border on debug bar
   * Removed the `editor.lineHighlightBorder` as it was hiding the cursor in some cases
   * Lightened `lineHighlightBackground` for light theme
   * Updated description
+
+* These changes only apply to `.custom-vscodestyles.css`
+  * to only affect dark theme where appropriate
+  * make titlebar font yellow
+  * yellow top and bottom border on debug bar
 
 * Fixes
   * Fixed JSON string color for light them

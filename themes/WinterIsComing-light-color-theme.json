@@ -67,7 +67,7 @@
       "scope": "comment",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#68886e"
+        "foreground": "#357b42"
       }
     },
     {
@@ -110,7 +110,7 @@
       "scope": "variable",
       "settings": {
         "fontStyle": "",
-        "foreground": "#3483f0"
+        "foreground": "#2f86d2"
       }
     },
     {
@@ -126,7 +126,7 @@
       "scope": "keyword",
       "settings": {
         "fontStyle": "",
-        "foreground": "#5a09b6"
+        "foreground": "#7b30d0"
       }
     },
     {
@@ -334,7 +334,7 @@
     "editorLineNumber.foreground": "#2f86d2",
     "editorWhitespace.foreground": "#C4C5CD",
     "gitDecoration.modifiedResourceForeground": "#2f86d2",
-    "gitDecoration.untrackedResourceForeground": "#5ABEB0",
+    "gitDecoration.untrackedResourceForeground": "#189b2c",
     "peekView.border": "#08134A",
     "peekViewEditor.matchHighlightBackground": "#D0CEC8",
     "peekViewResult.lineForeground": "#2f86d2",
