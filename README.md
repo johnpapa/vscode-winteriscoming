@@ -61,6 +61,12 @@ Some styles in VS Code aren't controlled by the `settings.json`.
 1. install [`Custom CSS and JS Loader` extension](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css)
 1. Create a file on your computer to hold your custom CSS named `~/.vscodestyles.css`
 1. Copy everything in [`.custom-vscodestyles.css`](./.custom-vscodestyles.css) into your file
+1. Point your `settings.json` to the file you just created
+    ```json
+      "vscode_custom_css.imports": [
+        "/Volumes/Macintosh HD/Users/yourname/.vscodestyles.css"
+      ]
+    ```
 1. Open your command palette
 1. Select `enable custom CSS and JS`
 1. Reload VS Code
