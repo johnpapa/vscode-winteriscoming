@@ -2,7 +2,7 @@
 
 This extension for Visual Studio Code adds two themes titled "Winter is Coming". There are both dark and light themes.
 
-I'm adjusting this themeI personally use the dark theme for most occasions, but find the light theme good on some dimmer projectors when I present.
+I personally use the dark theme for most occasions, but find the light theme good on some dimmer projectors when I present.
 
 See the [CHANGELOG](CHANGELOG.md) for the latest changes.
 
