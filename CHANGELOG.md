@@ -1,7 +1,7 @@
 ## Winter is Coming theme Changelog
 
-<a name="0.4.6"></a>
-# 0.4.6 (2017-11-20)
+<a name="0.4.7"></a>
+# 0.4.7 (2017-11-20)
 
 * Changes
   * debug bar border now matches debug status bar
