@@ -20,13 +20,6 @@
       }
     },
     {
-      "scope": ["markup.italic.markdown", "punctuation.definition.italic.markdown"],
-      "settings": {
-        "fontStyle": "italic",
-        "foreground": "#C792EA"
-      }
-    },
-    {
       "scope": [
         "punctuation.definition.string.begin.markdown",
         "punctuation.definition.string.end.markdown",
@@ -47,7 +40,21 @@
       "scope": ["markup.bold.markdown", "punctuation.definition.bold.markdown"],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#FFCB6B"
+        "foreground": "#57cdff"
+      }
+    },
+    {
+      "scope": ["markup.italic.markdown", "punctuation.definition.italic.markdown"],
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#C792EA"
+      }
+    },
+    {
+      "scope": ["markup.inline.raw.string.markdown", "markup.fenced_code.block.markdown"],
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#f7ecb5"
       }
     },
     {
@@ -283,22 +290,6 @@
       "scope": "markup.quote",
       "settings": {
         "foreground": "#78bd65"
-      }
-    },
-    {
-      "name": "Bold",
-      "scope": "markup.bold",
-      "settings": {
-        "fontStyle": "bold",
-        "foreground": "#f7ecb5"
-      }
-    },
-    {
-      "name": "Italic",
-      "scope": ["markup.italic", "punctuation.definition.italic"],
-      "settings": {
-        "fontStyle": "italic",
-        "foreground": "#E8B87E"
       }
     },
     {

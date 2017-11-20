@@ -1,8 +1,10 @@
 # Winter is Coming theme for VS Code
 
-This extension for Visual Studio Code adds 2 themes titled "Winter is Coming". There are both dark and light themes.
+This extension for Visual Studio Code adds two themes titled "Winter is Coming". There are both dark and light themes.
 
-See the [CHANGELOG](CHANGELOG.md) for the latest changes
+I'm adjusting this themeI personally use the dark theme for most occasions, but find the light theme good on some dimmer projectors when I present.
+
+See the [CHANGELOG](CHANGELOG.md) for the latest changes.
 
 ## Dark Theme
 
@@ -18,14 +20,14 @@ See the [CHANGELOG](CHANGELOG.md) for the latest changes
 
 Select the theme and go!
 
-# Installation
+## Installation
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
-2. Search for `Winter is Coming`
-3. Click **Install**
-4. Click **Reload**
-5. File > Preferences > Color Theme > **Winter is Coming**
-6. Optional: Use the recommended settings below for best experience
+1. Search for `Winter is Coming`
+1. Click **Install**
+1. Click **Reload**
+1. File > Preferences > Color Theme > **Winter is Coming**
+1. Optional: Use the recommended settings below for best experience
 
 ## Recommended Settings
 
@@ -52,7 +54,7 @@ Select the theme and go!
 }
 ```
 
-## Extra Customizations
+## Extra Customizations (Optional)
 
 Some styles in VS Code aren't controlled by the `settings.json`.
 
@@ -75,7 +77,7 @@ Be nice.
 
 ## Credits
 
-Credit where credit is due ... this theme was inspired by the themes Visual Studio Dark+, Monokai and [Dustin Sander's theme for "An Old Hope"](https://marketplace.visualstudio.com/items?itemName=dustinsanders.an-old-hope-theme-vscode). Custom CSS inspired by Wes Bos.
+Credit where credit is due ... this theme was inspired by the themes Visual Studio Dark+, Monokai and [Dustin Sander's theme for "An Old Hope"](https://marketplace.visualstudio.com/items?itemName=dustinsanders.an-old-hope-theme-vscode). Custom CSS inspired by [Wes Bos](https://twitter.com/wesbos).
 
 ## Authors
 

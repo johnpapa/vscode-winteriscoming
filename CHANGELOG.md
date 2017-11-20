@@ -1,11 +1,20 @@
 ## Winter is Coming theme Changelog
 
-<a name="next"></a>
-# next (next)
+<a name="0.4.6"></a>
+# 0.4.6 (2017-11-20)
 
 * Changes
   * debug bar border now matches debug status bar
+  * dark theme
+    * markdown bold #57cdff
+    * markdown italic #C792EA
+    * markdown raw string (inline code) #f7ecb5
+    * markdown fenced code title #f7ecb5
   * light theme
+    * markdown bold #4e76b5
+    * markdown italic #C792EA
+    * markdown raw string (inline code) #0460b1
+    * markdown fenced code title #0460b1
     * `untrackedResourceForeground` is now clearer shade of green
     * `comment` is now clearer shade of green
     * `keyword` is now clearer shade of purple

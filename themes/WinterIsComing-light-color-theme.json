@@ -20,13 +20,6 @@
       }
     },
     {
-      "scope": ["markup.italic.markdown", "punctuation.definition.italic.markdown"],
-      "settings": {
-        "fontStyle": "italic",
-        "foreground": "#386D15"
-      }
-    },
-    {
       "scope": [
         "punctuation.definition.string.begin.markdown",
         "punctuation.definition.string.end.markdown",
@@ -48,6 +41,20 @@
       "settings": {
         "fontStyle": "bold",
         "foreground": "#4e76b5"
+      }
+    },
+    {
+      "scope": ["markup.italic.markdown", "punctuation.definition.italic.markdown"],
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#C792EA"
+      }
+    },
+    {
+      "scope": ["markup.inline.raw.string.markdown", "markup.fenced_code.block.markdown"],
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#0460b1"
       }
     },
     {
