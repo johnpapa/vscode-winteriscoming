@@ -33,7 +33,7 @@ Select the theme and go!
 
 ```js
 {
-  "editor.cursorBlinking": "solid",
+  "editor.cursorBlinking": "smooth",
   "editor.cursorStyle": "underline-thin",
   "editor.fontSize": 16,
   "editor.lineHeight": 25,
