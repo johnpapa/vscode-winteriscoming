@@ -1,5 +1,13 @@
 ## Winter is Coming theme Changelog
 
+<a name="0.5.0"></a>
+# 0.5.0 (2018-03-03)
+
+* Changes
+  * Variable from #96d5f9 to #b2d4fa to contrast with keywords
+  * Minor shadings of light colors
+  * Changed file name of theme to `WinterIsComing-dark-color-theme.json` in source code
+
 <a name="0.4.7"></a>
 # 0.4.7 (2017-11-20)
 
