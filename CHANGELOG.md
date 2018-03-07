@@ -1,5 +1,10 @@
 ## Winter is Coming theme Changelog
 
+<a name="0.5.1"></a>
+# 0.5.1 (2018-03-06)
+
+* [Bug fix](https://github.com/johnpapa/vscode-winteriscoming/pull/10) - thanks to [Kris](https://github.com/kriscoleman) for the PR
+
 <a name="0.5.0"></a>
 # 0.5.0 (2018-03-03)
 
