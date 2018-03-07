@@ -226,7 +226,7 @@
     {
       "name": "Meta - Decorator",
       "scope": [
-        "punctuation.decorator",
+        "punctuation.decorator"
       ],
       "settings": {
         "fontStyle": "italic",
