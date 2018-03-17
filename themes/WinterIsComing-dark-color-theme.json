@@ -36,19 +36,14 @@
       }
     },
     {
-      "scope": [
-        "markup.quote.markdown"
-      ],
+      "scope": ["markup.quote.markdown"],
       "settings": {
         "fontStyle": "italic",
         "foreground": "#82AAFF"
       }
     },
     {
-      "scope": [
-        "markup.bold.markdown",
-        "punctuation.definition.bold.markdown"
-      ],
+      "scope": ["markup.bold.markdown", "punctuation.definition.bold.markdown"],
       "settings": {
         "fontStyle": "bold",
         "foreground": "#57cdff"
@@ -75,9 +70,7 @@
       }
     },
     {
-      "scope": [
-        "punctuation.definition.metadata.markdown"
-      ],
+      "scope": ["punctuation.definition.metadata.markdown"],
       "settings": {
         "foreground": "#f3b8c2"
       }
@@ -129,10 +122,7 @@
     },
     {
       "name": "User-defined constant",
-      "scope": [
-        "constant.character",
-        "constant.other"
-      ],
+      "scope": ["constant.character", "constant.other"],
       "settings": {
         "foreground": "#ec9cd2"
       }
@@ -225,9 +215,7 @@
     },
     {
       "name": "Meta - Decorator",
-      "scope": [
-        "punctuation.decorator"
-      ],
+      "scope": ["punctuation.decorator"],
       "settings": {
         "fontStyle": "italic",
         "foreground": "#f7ecb5"
@@ -251,10 +239,7 @@
     },
     {
       "name": "Library class/type",
-      "scope": [
-        "support.type",
-        "support.class"
-      ],
+      "scope": ["support.type", "support.class"],
       "settings": {
         "foreground": "#6dbdfa"
       }
@@ -330,9 +315,7 @@
     },
     {
       "name": "[Markdown] text ",
-      "scope": [
-        "meta.paragraph.markdown"
-      ],
+      "scope": ["meta.paragraph.markdown"],
       "settings": {
         "foreground": "#ffffff"
       }
@@ -358,7 +341,8 @@
     "editor.background": "#282822",
     "editor.foreground": "#bce7ff",
     "editor.lineHighlightBackground": "#2F3137",
-    "editor.selectionBackground": "#3a3a3a",
+    "editor.selectionBackground": "#777777",
+    "editor.selectionHighlightBackground": "#4f4f4f",
     "editorCursor.foreground": "#4fb4d8",
     "editorLineNumber.foreground": "#219fd5",
     "editorWhitespace.foreground": "#3B3A32",

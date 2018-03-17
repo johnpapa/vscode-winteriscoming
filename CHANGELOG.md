@@ -1,5 +1,13 @@
 ## Winter is Coming theme Changelog
 
+<a name="0.5.2"></a>
+# 0.5.2 (2018-03-017)
+
+* Changes
+  * Made dark theme's select background's more of a contrast
+    * `"editor.selectionBackground": "#777777",`
+    * `"editor.selectionHighlightBackground": "#4f4f4f",`
+
 <a name="0.5.1"></a>
 # 0.5.1 (2018-03-06)
 
