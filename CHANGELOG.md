@@ -1,7 +1,15 @@
 ## Winter is Coming theme Changelog
 
+<a name="0.5.3"></a>
+# 0.5.3 (2018-03-20)
+
+* Changes
+  * Dark theme
+    * constants are `#A170C6`
+    * punctuation are `#ffffff`
+
 <a name="0.5.2"></a>
-# 0.5.2 (2018-03-017)
+# 0.5.2 (2018-03-17)
 
 * Changes
   * Made dark theme's select background's more of a contrast
