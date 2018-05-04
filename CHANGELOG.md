@@ -1,6 +1,19 @@
 ## Winter is Coming theme Changelog
 
+<a name="0.5.4"></a>
+
+# 0.5.4 (2018-05-04)
+
+* Changes
+  * Updated indent lines based on new feature in VS Code
+  * Dark theme
+    * "editorIndentGuide.activeBackground": "#C792EA"
+  * Light theme
+    * "editorIndentGuide.activeBackground": "#2f86d2",
+    * "editorIndentGuide.background": "#eff2ef"
+
 <a name="0.5.3"></a>
+
 # 0.5.3 (2018-03-20)
 
 * Changes
@@ -9,6 +22,7 @@
     * punctuation are `#ffffff`
 
 <a name="0.5.2"></a>
+
 # 0.5.2 (2018-03-17)
 
 * Changes
@@ -17,11 +31,13 @@
     * `"editor.selectionHighlightBackground": "#4f4f4f",`
 
 <a name="0.5.1"></a>
+
 # 0.5.1 (2018-03-06)
 
 * [Bug fix](https://github.com/johnpapa/vscode-winteriscoming/pull/10) - thanks to [Kris](https://github.com/kriscoleman) for the PR
 
 <a name="0.5.0"></a>
+
 # 0.5.0 (2018-03-03)
 
 * Changes
@@ -30,9 +46,11 @@
   * Changed file name of theme to `WinterIsComing-dark-color-theme.json` in source code
 
 <a name="0.4.7"></a>
+
 # 0.4.7 (2017-11-20)
 
 * Changes
+
   * debug bar border now matches debug status bar
   * dark theme
     * markdown bold #57cdff
@@ -56,15 +74,18 @@
   * vs code's window title `color: #fafafa; letter-spacing: 1px; font-weight: 200;`
 
 <a name="0.4.5"></a>
+
 # 0.4.5 (2017-11-18)
 
 * Changes
+
   * Comments are now gray
   * Removed the `editor.lineHighlightBorder` as it was hiding the cursor in some cases
   * Lightened `lineHighlightBackground` for light theme
   * Updated description
 
 * These changes only apply to `.custom-vscodestyles.css`
+
   * to only affect dark theme where appropriate
   * make titlebar font yellow
   * yellow top and bottom border on debug bar
@@ -76,6 +97,7 @@
   * Removed obsolete styles
 
 <a name="0.4.0"></a>
+
 # 0.4.0 (2017-11-16)
 
 * Updated JSON file colors to blue and light yellow (for dark theme)
@@ -85,28 +107,33 @@
 * Added recommended settings to the README.md
 
 <a name="0.3.2"></a>
+
 # 0.3.2 (2017-11-08)
 
 * Updated light color theme for HTML and CSS, based on Vue.js usage
 
 <a name="0.3.1"></a>
+
 # 0.3.1 (2017-10-31)
 
 * Updated light color theme for `this`
 
 <a name="0.3.0"></a>
+
 # 0.3.0 (2017-10-26)
 
 * Renamed theme to "Winter is Coming (dark)"
 * Added a first draft of a light theme
 
 <a name="0.2.1"></a>
+
 # 0.2.1 (2017-10-23)
 
 * sidebar list selection is same blue as theme
 * added light green accents to git untracked badge
 
 <a name="0.2.0"></a>
+
 # 0.2.0 (2017-10-22)
 
 * activity bar icons are blue
@@ -119,6 +146,7 @@
 * peekview and find all references view has distinct border
 
 <a name="0.1.4"></a>
+
 # 0.1.4 (2017-10-20)
 
 * Centered icon and reversed background
@@ -127,13 +155,14 @@
 * Set `git.color.modified` to be blue
 
 <a name="0.0.3"></a>
+
 # 0.0.3 (2017-10-19)
 
 * Set `git.color.modified` to be orange
 * Set `git.color.untracked` to be green
 
 <a name="0.0.2"></a>
+
 # 0.0.2 (2017-10-18)
 
 * Created Winter is Coming theme
-

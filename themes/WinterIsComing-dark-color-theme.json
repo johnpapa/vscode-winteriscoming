@@ -358,6 +358,7 @@
     "editor.selectionBackground": "#40537d",
     "editor.selectionHighlightBackground": "#4f4f4f",
     "editorCursor.foreground": "#4fb4d8",
+    "editorIndentGuide.activeBackground": "#C792EA",
     "editorLineNumber.foreground": "#219fd5",
     "editorWhitespace.foreground": "#3B3A32",
     "gitDecoration.modifiedResourceForeground": "#219fd5",
