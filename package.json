@@ -14,18 +14,14 @@
   },
   "version": "0.5.4",
   "publisher": "johnpapa",
-  "keywords": [
-    "Theme",
-    "Dark Theme",
-    "Light Theme"
-  ],
+  "keywords": ["Theme", "Dark Theme", "Light Theme"],
+  "scripts": {
+    "publish": "vsce publish"
+  },
   "engines": {
     "vscode": "^1.17.0"
   },
-  "categories": [
-    "Themes",
-    "Other"
-  ],
+  "categories": ["Themes", "Other"],
   "contributes": {
     "themes": [
       {
