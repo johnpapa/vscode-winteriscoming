@@ -100,7 +100,7 @@
     {
       "name": "String",
       "scope": "string",
-      "settings": { "foreground": "#cdf9e8" }
+      "settings": { "foreground": "#d8dee8" }
     },
     {
       "name": "Number",
