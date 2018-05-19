@@ -93,25 +93,24 @@
       }
     },
     {
+      "name": "Quotes",
+      "scope": "punctuation.definition.string",
+      "settings": { "foreground": "#6bff81" }
+    },
+    {
       "name": "String",
       "scope": "string",
-      "settings": {
-        "foreground": "#e0c2ff"
-      }
+      "settings": { "foreground": "#cdf9e8" }
     },
     {
       "name": "Number",
       "scope": "constant.numeric",
-      "settings": {
-        "foreground": "#A170C6"
-      }
+      "settings": { "foreground": "#7fff6e" }
     },
     {
       "name": "Boolean",
       "scope": "constant.language.boolean",
-      "settings": {
-        "foreground": "#A170C6"
-      }
+      "settings": { "foreground": "#7fff6e" }
     },
     {
       "name": "Constant",
@@ -137,33 +136,24 @@
     {
       "name": "Variable",
       "scope": "variable",
-      "settings": {
-        "fontStyle": "",
-        "foreground": "#b2d4fa"
-      }
-    },
-    {
-      "name": "Keyword",
-      "scope": "keyword",
-      "settings": {
-        "fontStyle": "",
-        "foreground": "#00bff9"
-      }
+      "settings": { "fontStyle": "", "foreground": "#d29ffc" }
     },
     {
       "name": "Storage",
       "scope": "storage",
-      "settings": {
-        "fontStyle": "",
-        "foreground": "#6dbdfa"
-      }
+      "settings": { "fontStyle": "", "foreground": "#6dbdfa" }
     },
     {
-      "name": "Storage type",
-      "scope": "storage.type",
+      "name": "Keywords and Storage types",
+      "scope": [
+        "keyword",
+        "variable.language.this",
+        "storage.type",
+        "storage.modifier"
+      ],
       "settings": {
-        "foreground": "#6dbdfa",
-        "fontStyle": ""
+        "foreground": "#00bff9",
+        "fontStyle": "italic"
       }
     },
     {
@@ -180,6 +170,11 @@
         "fontStyle": "",
         "foreground": "#4FB4D8"
       }
+    },
+    {
+      "name": "Variables, Let and Const",
+      "scope": ["variable.other.readwrites", "meta.definition.variable"],
+      "settings": { "fontStyle": "", "foreground": "#f7ecb5" }
     },
     {
       "name": "Function name",
@@ -208,9 +203,7 @@
     {
       "name": "Entity Name Type",
       "scope": "entity.name.type",
-      "settings": {
-        "foreground": "#6dbdfa"
-      }
+      "settings": { "foreground": "#1ef4e6" }
     },
     {
       "name": "Tag attribute",
@@ -347,13 +340,20 @@
       "settings": {
         "foreground": "#78BD65"
       }
+    },
+    {
+      "name": "Dockerfile",
+      "scope": "source.dockerfile",
+      "settings": {
+        "foreground": "#99d0f7"
+      }
     }
   ],
   "colors": {
     "activityBar.foreground": "#99d0f7",
     "debugToolBar.background": "#44464b",
     "editor.background": "#282822",
-    "editor.foreground": "#bce7ff",
+    "editor.foreground": "#a7dbf7",
     "editor.lineHighlightBackground": "#2F3137",
     "editor.selectionBackground": "#40537d",
     "editor.selectionHighlightBackground": "#4f4f4f",
