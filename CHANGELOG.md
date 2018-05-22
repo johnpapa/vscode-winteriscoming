@@ -1,5 +1,17 @@
 # Winter is Coming theme Changelog
 
+<a name="0.6.2"></a>
+
+## 0.6.2 (2018-05-21)
+
+* Changes, as per user feedback
+  * comments are now a shade of gray so they are not so pronounced as the green was
+  * keyword operators are no longer italicized
+  * entity.type.name is now a shade of purple, instead of teal (feedback was about the teal not matching)
+  * variables reset to light blue (feedback wanted this reverted)
+  * updated the readme images, fonts, and settings
+  * more changes may come
+
 <a name="0.6.1"></a>
 
 ## 0.6.1 (2018-05-20)

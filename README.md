@@ -8,9 +8,15 @@ See the [CHANGELOG](CHANGELOG.md) for the latest changes.
 
 ## Dark Theme
 
-![HTML](images/800-1.png)
+![HTML](images/dark-html.png)
 
-![JavaScript/TypeScript](images/800-2.png)
+![TypeScript](images/dark-ts.png)
+
+![SCSS](images/dark-scss.png)
+
+![Debugging](images/dark-debug.png)
+
+The dark theme is best seen with a font that supports cursive italicized fonts
 
 ## Light Theme
 
@@ -26,31 +32,48 @@ Select the theme and go!
 1. Search for `Winter is Coming`
 1. Click **Install**
 1. Click **Reload**
-1. File > Preferences > Color Theme > **Winter is Coming**
+1. File > Preferences > Color Theme > **Winter is Coming (Dark)**
 1. Optional: Use the recommended settings below for best experience
 
 ## Recommended Settings
 
 ```js
 {
-  "editor.cursorBlinking": "smooth",
-  "editor.cursorStyle": "underline-thin",
-  "editor.fontSize": 16,
-  "editor.lineHeight": 25,
-  "editor.fontFamily": "Operator Mono, Fira code, Inconsolata, Monofur, Menlo",
-  "editor.formatOnType": true,
-  "editor.letterSpacing": 0.5,
-  "editor.tabSize": 2,
-  "editor.wordWrap": "off",
-  "files.autoSave": "afterDelay",
-  "files.autoSaveDelay": 1000,
-  "files.hotExit": "onExit",
-  "files.trimTrailingWhitespace": true,
+	"editor.autoIndent": true,
+	"editor.codeLens": false,
+	"editor.cursorBlinking": "smooth",
+	"editor.cursorStyle": "line",
+	"editor.fontSize": 14,
+	"editor.fontFamily": "Dank Mono, Operator Mono, Fira Code",
+	"editor.fontLigatures": true,
+	"editor.formatOnPaste": true,
+	"editor.formatOnType": true,
+	"editor.formatOnSave": true,
+	"editor.minimap.enabled": false,
+	"editor.renderWhitespace": "none",
+	"editor.tabCompletion": true,
+	"editor.wordWrap": "off",
+	"explorer.confirmDragAndDrop": false,
+	"explorer.openEditors.visible": 0,
+ 	"files.autoSave": "afterDelay",
+	"files.autoSaveDelay": 1000,
+	"files.exclude": {
+		"**/*.js": {
+			"when": "$(basename).ts"
+		},
+		"**/*.js.map": {
+			"when": "$(basename)"
+		}
+	},
+	"files.hotExit": "onExit",
+	"files.defaultLanguage": "typescript",
+	"files.trimTrailingWhitespace": true,
   "prettier.printWidth": 100,
   "prettier.singleQuote": true,
   "prettier.tabWidth": 2,
   "window.zoomLevel": 0,
-  "workbench.colorTheme": "Winter is Coming (Dark)"
+  "workbench.colorTheme": "Winter is Coming (Dark)",
+	"zenMode.centerLayout": false
 }
 ```
 
@@ -75,7 +98,7 @@ Some styles in VS Code aren't controlled by the `settings.json`.
 
 ## Fonts
 
-I am using a paid font titled `Operator Mono`. If you do not have that font, the settings above will move along to Fira Code or Inconsolata, until it finds an installed font.
+I am using a paid font titled `Dank Mono`. (e.g. `Operator Mono` is also a paid font that is awesome). If you do not have these fonts, use your favorite font. Fira Code is a free one that works well too.
 
 ## Feedback
 

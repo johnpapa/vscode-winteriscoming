@@ -89,7 +89,7 @@
       "scope": "comment",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#15c062"
+        "foreground": "#999999"
       }
     },
     {
@@ -133,11 +133,7 @@
         "foreground": "#A170C6"
       }
     },
-    {
-      "name": "Variable",
-      "scope": "variable",
-      "settings": { "fontStyle": "", "foreground": "#d29ffc" }
-    },
+    { "name": "Variable", "scope": "variable", "settings": { "fontStyle": "", "foreground": "#a4ceee" } },
     {
       "name": "Storage",
       "scope": "storage",
@@ -154,6 +150,16 @@
       "settings": {
         "foreground": "#00bff9",
         "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Keywords operators",
+      "scope": [
+        "keyword.operator"
+      ],
+      "settings": {
+        "foreground": "#00bff9",
+        "fontStyle": ""
       }
     },
     {
@@ -203,7 +209,7 @@
     {
       "name": "Entity Name Type",
       "scope": "entity.name.type",
-      "settings": { "foreground": "#1ef4e6" }
+      "settings": { "foreground": "#d29ffc" }
     },
     {
       "name": "Tag attribute",
