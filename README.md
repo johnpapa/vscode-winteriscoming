@@ -1,8 +1,8 @@
 # Winter is Coming theme for VS Code
 
-This extension for Visual Studio Code adds two themes titled "Winter is Coming". There are both dark and light themes.
+This extension for Visual Studio Code adds two themes titled "Winter is Coming". There are dark, dark blue, and light themes.
 
-I personally use the dark theme for most occasions, but find the light theme good on some dimmer projectors when I present.
+I personally use the dark themes for most occasions, but find the light theme good on some dimmer projectors when I present.
 
 See the [CHANGELOG](CHANGELOG.md) for the latest changes.
 
@@ -108,7 +108,7 @@ Be nice.
 
 ## Credits
 
-Credit where credit is due ... this theme was inspired by the themes Visual Studio Dark+, Monokai and [Dustin Sander's theme for "An Old Hope"](https://marketplace.visualstudio.com/items?itemName=dustinsanders.an-old-hope-theme-vscode). Custom CSS inspired by [Wes Bos](https://twitter.com/wesbos).
+Credit where credit is due ... this theme was inspired by the themes Visual Studio Dark+, Monokai and [Dustin Sander's theme for "An Old Hope"](https://marketplace.visualstudio.com/items?itemName=dustinsanders.an-old-hope-theme-vscode). Custom CSS inspired by [Wes Bos](https://twitter.com/wesbos). Blue background for the Dark Blue them inspired by [Sarah Drasner](https://twitter.com/sarah_edo)'s [Night Owl theme](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl)
 
 ## Authors
 

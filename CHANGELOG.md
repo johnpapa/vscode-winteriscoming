@@ -1,5 +1,17 @@
 # Winter is Coming theme Changelog
 
+<a name="0.7.0"></a>
+
+## 0.7.0 (2018-05-25)
+
+* 3 variations of Winter is Coming
+  * Dark
+  * Dark Blue
+  * Light
+* Created Winter is Coming (Dark Blue)
+  * Variation of Winter is Coming but with a dark blue background
+  * Inspired by the blue background of the Night Owl theme, by the awesome Sarah Drasner
+
 <a name="0.6.2"></a>
 
 ## 0.6.2 (2018-05-21)
