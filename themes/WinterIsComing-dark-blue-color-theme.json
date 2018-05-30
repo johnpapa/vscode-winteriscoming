@@ -473,7 +473,7 @@
     "list.inactiveSelectionForeground": "#5f7e97",
     "list.invalidItemForeground": "#975f94",
     "list.dropBackground": "#011627",
-    "list.focusBackground": "#5f7e9700",
+    "list.focusBackground": "#0e293f",
     "list.focusForeground": "#ffffff",
     "list.highlightForeground": "#ffffff",
     "list.hoverBackground": "#011627",
@@ -491,13 +491,13 @@
     "peekViewEditor.background": "#011627",
     "peekViewResult.background": "#011627",
     "peekViewTitle.background": "#011627",
-    "pickerGroup.border": "#011627",
     "peekViewEditor.matchHighlightBackground": "#7e57c25a",
     "peekViewResult.matchHighlightBackground": "#7e57c25a",
     "peekViewResult.selectionBackground": "#2E3250",
     "peekViewResult.selectionForeground": "#cecece",
     "peekViewTitleDescription.foreground": "#697098",
     "peekViewTitleLabel.foreground": "#cecece",
+    "pickerGroup.border": "#011627",
     "scrollbar.shadow": "#010b14",
     "scrollbarSlider.activeBackground": "#084d8180",
     "scrollbarSlider.background": "#084d8180",
@@ -529,6 +529,6 @@
     "walkThrough.embeddedEditorBackground": "#001111",
     "welcomePage.buttonBackground": "#011627",
     "welcomePage.buttonHoverBackground": "#011627",
-    "widget.shadow": "#270901"
+    "widget.shadow": "#219fd5"
   }
 }

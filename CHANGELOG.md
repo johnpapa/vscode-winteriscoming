@@ -1,5 +1,14 @@
 # Winter is Coming theme Changelog
 
+<a name="0.7.1"></a>
+
+## 0.7.1 (2018-05-30)
+
+* Changed `list.focusBackground` to `#0e293f` to keep the contrast in lists
+  * e.g. open the command palette, use the down arrow and the backgroudn selection should be obvious
+  * this color was transparent and made it difficult to see the selection
+* minor change to make widget drop shadow's a light blue
+
 <a name="0.7.0"></a>
 
 ## 0.7.0 (2018-05-25)
