@@ -36,19 +36,14 @@
       }
     },
     {
-      "scope": [
-        "markup.quote.markdown"
-      ],
+      "scope": ["markup.quote.markdown"],
       "settings": {
         "fontStyle": "italic",
         "foreground": "#82AAFF"
       }
     },
     {
-      "scope": [
-        "markup.bold.markdown",
-        "punctuation.definition.bold.markdown"
-      ],
+      "scope": ["markup.bold.markdown", "punctuation.definition.bold.markdown"],
       "settings": {
         "fontStyle": "bold",
         "foreground": "#57cdff"
@@ -75,9 +70,7 @@
       }
     },
     {
-      "scope": [
-        "punctuation.definition.metadata.markdown"
-      ],
+      "scope": ["punctuation.definition.metadata.markdown"],
       "settings": {
         "foreground": "#f3b8c2"
       }
@@ -143,10 +136,7 @@
     },
     {
       "name": "User-defined constant",
-      "scope": [
-        "constant.character",
-        "constant.other"
-      ],
+      "scope": ["constant.character", "constant.other"],
       "settings": {
         "foreground": "#A170C6"
       }
@@ -182,9 +172,7 @@
     },
     {
       "name": "Keywords operators",
-      "scope": [
-        "keyword.operator"
-      ],
+      "scope": ["keyword.operator"],
       "settings": {
         "foreground": "#00bff9",
         "fontStyle": ""
@@ -207,10 +195,7 @@
     },
     {
       "name": "Variables, Let and Const",
-      "scope": [
-        "variable.other.readwrites",
-        "meta.definition.variable"
-      ],
+      "scope": ["variable.other.readwrites", "meta.definition.variable"],
       "settings": {
         "fontStyle": "",
         "foreground": "#f7ecb5"
@@ -257,9 +242,7 @@
     },
     {
       "name": "Meta - Decorator",
-      "scope": [
-        "punctuation.decorator"
-      ],
+      "scope": ["punctuation.decorator"],
       "settings": {
         "fontStyle": "italic",
         "foreground": "#f7ecb5"
@@ -267,10 +250,7 @@
     },
     {
       "name": "Punctuation/Brackets/Tags",
-      "scope": [
-        "punctuation.definition.block",
-        "punctuation.definition.tag"
-      ],
+      "scope": ["punctuation.definition.block", "punctuation.definition.tag"],
       "settings": {
         "foreground": "#ffffff"
       }
@@ -293,10 +273,7 @@
     },
     {
       "name": "Library class/type",
-      "scope": [
-        "support.type",
-        "support.class"
-      ],
+      "scope": ["support.type", "support.class"],
       "settings": {
         "foreground": "#6dbdfa"
       }
@@ -372,9 +349,7 @@
     },
     {
       "name": "[Markdown] text ",
-      "scope": [
-        "meta.paragraph.markdown"
-      ],
+      "scope": ["meta.paragraph.markdown"],
       "settings": {
         "foreground": "#ffffff"
       }
@@ -523,8 +498,9 @@
     "terminal.ansiBlack": "#011627",
     "textLink.foreground": "#219fd5",
     "textLink.activeForeground": "#98c8ed",
-    "titleBar.activeBackground": "#011627",
+    "titleBar.activeBackground": "#03648a",
     "titleBar.activeForeground": "#eeefff",
+    "titleBar.border": "#303030",
     "titleBar.inactiveBackground": "#000a11",
     "walkThrough.embeddedEditorBackground": "#001111",
     "welcomePage.buttonBackground": "#011627",

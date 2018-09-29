@@ -133,7 +133,11 @@
         "foreground": "#A170C6"
       }
     },
-    { "name": "Variable", "scope": "variable", "settings": { "fontStyle": "", "foreground": "#a4ceee" } },
+    {
+      "name": "Variable",
+      "scope": "variable",
+      "settings": { "fontStyle": "", "foreground": "#a4ceee" }
+    },
     {
       "name": "Storage",
       "scope": "storage",
@@ -154,9 +158,7 @@
     },
     {
       "name": "Keywords operators",
-      "scope": [
-        "keyword.operator"
-      ],
+      "scope": ["keyword.operator"],
       "settings": {
         "foreground": "#00bff9",
         "fontStyle": ""
@@ -379,6 +381,7 @@
     "list.activeSelectionBackground": "#219fd5",
     "statusBar.debuggingBackground": "#b15a91",
     "statusBar.background": "#219fd5",
-    "tab.inactiveBackground": "#333333"
+    "tab.inactiveBackground": "#333333",
+    "titleBar.border": "#303030"
   }
 }
