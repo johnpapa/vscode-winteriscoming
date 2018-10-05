@@ -1,10 +1,25 @@
 # Winter is Coming theme Changelog
 
+<a name="0.8.0"></a>
+
+## 0.8.0 (2018-10-05)
+
+- Dark blue theme
+  - adjusted cursor color to contrast
+  - `editorCursor.foreground`: `#219fd5`
+  - adjusted the border colors to contrast, to make it easier to find splitters and borders
+  - `activityBar.border`: `#219fd544`
+  - `editorGroup.border`: `#219fd544`
+  - `notificationToast.border`: `#219fd544`
+  - `pickerGroup.border`: `#219fd544`
+  - `sideBar.border`: `#219fd544`
+
 <a name="0.7.2"></a>
 
 ## 0.7.2 (2018-09-29)
 
-- adjusted the titleBar and border for the dark blue theme to make it have more contrast
+- Dark blue theme
+  - adjusted the titleBar and border for the dark blue theme to make it have more contrast
   - `titleBar.activeBackground`: `#03648a`
   - `titleBar.border`: `#303030`
 
