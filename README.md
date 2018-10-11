@@ -68,11 +68,11 @@ Select the theme and go!
 	"files.hotExit": "onExit",
 	"files.defaultLanguage": "typescript",
 	"files.trimTrailingWhitespace": true,
-  "prettier.printWidth": 100,
-  "prettier.singleQuote": true,
-  "prettier.tabWidth": 2,
-  "window.zoomLevel": 0,
-  "workbench.colorTheme": "Winter is Coming (Dark)",
+	"prettier.printWidth": 100,
+	"prettier.singleQuote": true,
+	"prettier.tabWidth": 2,
+	"window.zoomLevel": 0,
+	"workbench.colorTheme": "Winter is Coming (Dark)",
 	"zenMode.centerLayout": false
 }
 ```
