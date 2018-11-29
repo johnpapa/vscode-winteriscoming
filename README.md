@@ -2,9 +2,23 @@
 
 This extension for Visual Studio Code adds two themes titled "Winter is Coming". There are dark, dark blue, and light themes.
 
-I personally use the dark themes for most occasions, but find the light theme good on some dimmer projectors when I present.
+![Winter is Coming](images/winter.jpg)
+
+> I personally use the dark themes for most occasions, but find the light theme good on some dimmer projectors when I present.
 
 See the [CHANGELOG](CHANGELOG.md) for the latest changes.
+
+## Dark Blue Theme
+
+![HTML](images/dark-blue-html.png)
+
+![TypeScript](images/dark-blue-ts.png)
+
+![SCSS](images/dark-blue-scss.png)
+
+![Debugging](images/dark-blue-debug.png)
+
+The dark blue theme is best seen with a font that supports cursive italicized fonts
 
 ## Dark Theme
 
@@ -85,11 +99,11 @@ Some styles in VS Code aren't controlled by the `settings.json`.
 1. Create a file on your computer to hold your custom CSS named `~/.vscodestyles.css`
 1. Copy everything in [`.custom-vscodestyles.css`](./.custom-vscodestyles.css) into your file
 1. Point your `settings.json` to the file you just created
-    ```json
-      "vscode_custom_css.imports": [
-        "/Volumes/Macintosh HD/Users/yourname/.vscodestyles.css"
-      ]
-    ```
+   ```json
+     "vscode_custom_css.imports": [
+       "/Volumes/Macintosh HD/Users/yourname/.vscodestyles.css"
+     ]
+   ```
 1. Open your command palette
 1. Select `enable custom CSS and JS`
 1. Reload VS Code
