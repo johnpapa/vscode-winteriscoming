@@ -1,6 +1,6 @@
 # Winter is Coming
 
-This extension for Visual Studio Code adds two themes titled "Winter is Coming". There are dark, dark blue, and light themes.
+This extension for Visual Studio Code adds themes titled "Winter is Coming". There are dark, dark blue, and light themes.
 
 ![Winter is Coming](images/winter.jpg)
 
