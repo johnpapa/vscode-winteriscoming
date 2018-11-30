@@ -1,4 +1,4 @@
-# Winter is Coming theme for VS Code
+# Winter is Coming theme
 
 This extension for Visual Studio Code adds two themes titled "Winter is Coming". There are dark, dark blue, and light themes.
 
@@ -42,7 +42,7 @@ Select the theme and go!
 
 ## Installation
 
-1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
+1. Open **Extensions** sidebar panel in Visual Studio Code. `View → Extensions`
 1. Search for `Winter is Coming`
 1. Click **Install**
 1. Click **Reload**
