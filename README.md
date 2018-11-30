@@ -53,66 +53,33 @@ Select the theme and go!
 
 ```js
 {
-	"editor.autoIndent": true,
-	"editor.codeLens": false,
-	"editor.cursorBlinking": "smooth",
-	"editor.cursorStyle": "line",
-	"editor.fontSize": 14,
-	"editor.fontFamily": "Dank Mono, Operator Mono, Fira Code",
-	"editor.fontLigatures": true,
-	"editor.formatOnPaste": true,
-	"editor.formatOnType": true,
-	"editor.formatOnSave": true,
-	"editor.minimap.enabled": false,
-	"editor.renderWhitespace": "none",
-	"editor.tabCompletion": true,
-	"editor.wordWrap": "off",
-	"explorer.confirmDragAndDrop": false,
-	"explorer.openEditors.visible": 0,
- 	"files.autoSave": "afterDelay",
-	"files.autoSaveDelay": 1000,
-	"files.exclude": {
-		"**/*.js": {
-			"when": "$(basename).ts"
-		},
-		"**/*.js.map": {
-			"when": "$(basename)"
-		}
-	},
-	"files.hotExit": "onExit",
-	"files.defaultLanguage": "typescript",
-	"files.trimTrailingWhitespace": true,
-	"prettier.printWidth": 100,
-	"prettier.singleQuote": true,
-	"prettier.tabWidth": 2,
-	"window.zoomLevel": 0,
-	"workbench.colorTheme": "Winter is Coming (Dark)",
-	"zenMode.centerLayout": false
+  "breadcrumbs.enabled": true,
+  "debug.toolBarLocation": "floating",
+  "editor.autoIndent": true,
+  "editor.codeLens": false,
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorStyle": "line",
+  "editor.fontSize": 16,
+  "editor.fontFamily": "Dank Mono, Operator Mono, Fira Code,
+  "editor.fontLigatures": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": false,
+  "editor.formatOnSave": true,
+  "editor.letterSpacing": 0.5,
+  "editor.lineHeight": 25,
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 1000,
+  "search.showLineNumbers": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorCustomizations": {},
+  "workbench.colorTheme": "Winter is Coming (Dark Blue)",
+  "zenMode.centerLayout": false,
 }
 ```
 
-## Extra Customizations (Optional)
-
-Some styles in VS Code aren't controlled by the `settings.json`.
-
-1. install [`Custom CSS and JS Loader` extension](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css)
-1. Create a file on your computer to hold your custom CSS named `~/.vscodestyles.css`
-1. Copy everything in [`.custom-vscodestyles.css`](./.custom-vscodestyles.css) into your file
-1. Point your `settings.json` to the file you just created
-   ```json
-     "vscode_custom_css.imports": [
-       "/Volumes/Macintosh HD/Users/yourname/.vscodestyles.css"
-     ]
-   ```
-1. Open your command palette
-1. Select `enable custom CSS and JS`
-1. Reload VS Code
-
-![JavaScript/TypeScript](images/800-4-custom.png)
-
 ## Fonts
 
-I am using a paid font titled `Dank Mono`. (e.g. `Operator Mono` is also a paid font that is awesome). If you do not have these fonts, use your favorite font. Fira Code is a free one that works well too.
+I am using a paid font titled **Dank Mono**. **Operator Mono** is also a paid font that is awesome. If you do not have these fonts, use your favorite font. **Fira Code** is a free one that works well too.
 
 ## Feedback
 
