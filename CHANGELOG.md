@@ -1,5 +1,13 @@
 # Winter is Coming theme Changelog
 
+<a name="0.8.9"></a>
+
+## 0.8.9 (2019-03-01)
+
+- Made both dark themes have a more subtle titlebar
+  - "titleBar.activeBackground": "#112233",
+  - "titleBar.inactiveBackground": "#000a11",
+
 <a name="0.8.0"></a>
 
 ## 0.8.0 (2018-10-05)

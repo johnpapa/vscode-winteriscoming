@@ -382,6 +382,8 @@
     "statusBar.debuggingBackground": "#b15a91",
     "statusBar.background": "#219fd5",
     "tab.inactiveBackground": "#333333",
-    "titleBar.border": "#303030"
+    "titleBar.border": "#303030",
+    "titleBar.activeBackground": "#112233",
+    "titleBar.inactiveBackground": "#000a11"
   }
 }

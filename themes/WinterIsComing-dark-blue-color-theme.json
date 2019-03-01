@@ -498,7 +498,7 @@
     "terminal.ansiBlack": "#011627",
     "textLink.foreground": "#219fd5",
     "textLink.activeForeground": "#98c8ed",
-    "titleBar.activeBackground": "#03648a",
+    "titleBar.activeBackground": "#112233",
     "titleBar.activeForeground": "#eeefff",
     "titleBar.border": "#303030",
     "titleBar.inactiveBackground": "#000a11",
