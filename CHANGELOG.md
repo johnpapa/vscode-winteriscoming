@@ -1,5 +1,14 @@
 # Winter is Coming theme Changelog
 
+<a name="0.9.0"></a>
+
+## 0.9.0 (2019-03-11)
+
+- Made both dark themes have a more readable warning messages
+  - "inputValidation.warningBackground": "#f7ecb5",
+  - "inputValidation.warningBorder": "#f7ecb5",
+  - "inputValidation.warningForeground": "#000000",
+
 <a name="0.8.9"></a>
 
 ## 0.8.9 (2019-03-01)
