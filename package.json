@@ -1,4 +1,5 @@
 {
+  "foo": true,
   "name": "winteriscoming",
   "displayName": "Winter is Coming Theme",
   "description": "Preferred dark/light themes by John Papa",
@@ -20,8 +21,9 @@
     "Light Theme"
   ],
   "scripts": {
-    "list": "vsce ls",
-    "publish": "vsce publish"
+    "list": "npx vsce ls",
+    "package": "npx vsce package",
+    "publish": "npx vsce publish"
   },
   "engines": {
     "vscode": "^1.17.0"
