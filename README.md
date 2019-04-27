@@ -32,7 +32,7 @@ Select the theme and go!
 1. Search for `Winter is Coming`
 1. Click **Install**
 1. Click **Reload**
-1. File > Preferences > Color Theme > **Winter is Coming (Dark)**
+1. File > Preferences > Color Theme > **Winter is Coming (Dark Blue)**
 1. Optional: Use the recommended settings below for best experience
 
 ## Recommended Settings
@@ -58,7 +58,7 @@ Select the theme and go!
   "search.showLineNumbers": true,
   "workbench.iconTheme": "material-icon-theme",
   "workbench.colorCustomizations": {},
-  "workbench.colorTheme": "Winter is Coming (Dark)",
+  "workbench.colorTheme": "Winter is Coming (Dark Blue)",
   "zenMode.centerLayout": false,
 }
 ```

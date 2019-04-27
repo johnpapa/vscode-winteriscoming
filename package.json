@@ -35,12 +35,12 @@
   "contributes": {
     "themes": [
       {
-        "label": "Winter is Coming (Dark)",
+        "label": "Winter is Coming (Dark Blue)",
         "uiTheme": "vs-dark",
         "path": "./themes/WinterIsComing-dark-blue-color-theme.json"
       },
       {
-        "label": "Winter is Coming (Dark - No Italics)",
+        "label": "Winter is Coming (Dark Blue - No Italics)",
         "uiTheme": "vs-dark",
         "path": "./themes/WinterIsComing-dark-blue-color-no-italics-theme.json"
       },
