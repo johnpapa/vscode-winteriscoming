@@ -1,12 +1,12 @@
 # Winter is Coming
 
-This extension for Visual Studio Code adds themes titled "Winter is Coming". There are dark, dark blue, and light themes.
+This extension for Visual Studio Code adds themes titled "Winter is Coming". There are dark, dark with no italics, and light themes.
 
 > I personally use the dark themes for most occasions, but find the light theme good on some dimmer projectors when I present.
 
 See the [CHANGELOG](CHANGELOG.md) for the latest changes.
 
-## Dark Blue Theme
+## Dark Theme
 
 ![HTML](images/dark-blue-html.png)
 
@@ -15,18 +15,6 @@ See the [CHANGELOG](CHANGELOG.md) for the latest changes.
 ![SCSS](images/dark-blue-scss.png)
 
 ![Debugging](images/dark-blue-debug.png)
-
-The dark blue theme is best seen with a font that supports cursive italicized fonts
-
-## Dark Theme
-
-![HTML](images/dark-html.png)
-
-![TypeScript](images/dark-ts.png)
-
-![SCSS](images/dark-scss.png)
-
-![Debugging](images/dark-debug.png)
 
 The dark theme is best seen with a font that supports cursive italicized fonts
 
@@ -70,7 +58,7 @@ Select the theme and go!
   "search.showLineNumbers": true,
   "workbench.iconTheme": "material-icon-theme",
   "workbench.colorCustomizations": {},
-  "workbench.colorTheme": "Winter is Coming (Dark Blue)",
+  "workbench.colorTheme": "Winter is Coming (Dark)",
   "zenMode.centerLayout": false,
 }
 ```
@@ -87,7 +75,7 @@ Be nice.
 
 ## Credits
 
-Credit where credit is due ... this theme was inspired by the themes Visual Studio Dark+, Monokai and [Dustin Sander's theme for "An Old Hope"](https://marketplace.visualstudio.com/items?itemName=dustinsanders.an-old-hope-theme-vscode). Custom CSS inspired by [Wes Bos](https://twitter.com/wesbos). Blue background for the Dark Blue them inspired by [Sarah Drasner](https://twitter.com/sarah_edo)'s [Night Owl theme](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl)
+Credit where credit is due ... this theme was inspired by the themes Visual Studio Dark+, Monokai and [Dustin Sander's theme for "An Old Hope"](https://marketplace.visualstudio.com/items?itemName=dustinsanders.an-old-hope-theme-vscode). Custom CSS inspired by [Wes Bos](https://twitter.com/wesbos). Blue background for the Dark them inspired by [Sarah Drasner](https://twitter.com/sarah_edo)'s [Night Owl theme](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl)
 
 ## Authors
 

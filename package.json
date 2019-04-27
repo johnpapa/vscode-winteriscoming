@@ -13,7 +13,7 @@
     "color": "#373436",
     "theme": "dark"
   },
-  "version": "0.9.0",
+  "version": "1.0.0",
   "publisher": "johnpapa",
   "keywords": [
     "Theme",
@@ -35,12 +35,12 @@
   "contributes": {
     "themes": [
       {
-        "label": "Winter is Coming (Dark Blue)",
+        "label": "Winter is Coming (Dark)",
         "uiTheme": "vs-dark",
         "path": "./themes/WinterIsComing-dark-blue-color-theme.json"
       },
       {
-        "label": "Winter is Coming (Dark Blue)",
+        "label": "Winter is Coming (Dark - No Italics)",
         "uiTheme": "vs-dark",
         "path": "./themes/WinterIsComing-dark-blue-color-no-italics-theme.json"
       },

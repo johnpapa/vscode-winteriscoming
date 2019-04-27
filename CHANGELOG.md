@@ -1,5 +1,13 @@
 # Winter is Coming theme Changelog
 
+<a name="1.0.0"></a>
+
+## 1.0.0 (2019-04-27)
+
+- Removed dark theme, as it was not well supported
+- Added dark blue theme with no italics
+- Refactored dark blue themes to add more contrast to JSON and javascript/typescript
+
 <a name="0.9.0"></a>
 
 ## 0.9.0 (2019-03-11)
