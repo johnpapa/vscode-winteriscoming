@@ -99,7 +99,7 @@
       "name": "String",
       "scope": "string",
       "settings": {
-        "foreground": "#8dec95"
+        "foreground": "#d3eed6"
       }
     },
     {
@@ -107,21 +107,21 @@
       "scope": ["string.quoted", "variable.other.readwrite.js"],
       "settings": {
         "fontStyle": "",
-        "foreground": "#8dec95"
+        "foreground": "#d3eed6"
       }
     },
     {
       "name": "Number",
       "scope": "constant.numeric",
       "settings": {
-        "foreground": "#7fff6e"
+        "foreground": "#8dec95"
       }
     },
     {
       "name": "Boolean",
       "scope": "constant.language.boolean",
       "settings": {
-        "foreground": "#7fff6e"
+        "foreground": "#8dec95"
       }
     },
     {
@@ -302,7 +302,7 @@
         "meta.export.js variable.other"
       ],
       "settings": {
-        "foreground": "#8dec95"
+        "foreground": "#d3eed6"
       }
     },
     {
