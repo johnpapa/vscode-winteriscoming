@@ -38,7 +38,6 @@
     {
       "scope": ["markup.quote.markdown"],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#82AAFF"
       }
     },
@@ -55,7 +54,6 @@
         "punctuation.definition.italic.markdown"
       ],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#C792EA"
       }
     },
@@ -65,7 +63,6 @@
         "markup.fenced_code.block.markdown"
       ],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#f7ecb5"
       }
     },
@@ -88,7 +85,6 @@
       "name": "Comment",
       "scope": "comment",
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#999999"
       }
     },
@@ -157,7 +153,6 @@
       "name": "Variable",
       "scope": "variable",
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#a4ceee"
       }
     },
@@ -344,7 +339,6 @@
       "name": "Function name",
       "scope": "entity.name.function",
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#87aff4"
       }
     },
@@ -375,7 +369,6 @@
       "name": "Tag attribute",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#f7ecb5"
       }
     },
@@ -383,7 +376,6 @@
       "name": "Meta - Decorator",
       "scope": ["punctuation.decorator"],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#f7ecb5"
       }
     },

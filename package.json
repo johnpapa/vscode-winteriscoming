@@ -40,6 +40,11 @@
         "path": "./themes/WinterIsComing-dark-blue-color-theme.json"
       },
       {
+        "label": "Winter is Coming (Dark Blue)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/WinterIsComing-dark-blue-color-no-italics-theme.json"
+      },
+      {
         "label": "Winter is Coming (Light)",
         "uiTheme": "vs",
         "path": "./themes/WinterIsComing-light-color-theme.json"
