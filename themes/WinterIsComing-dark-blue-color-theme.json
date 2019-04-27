@@ -107,6 +107,13 @@
       }
     },
     {
+      "name": "String Quoted",
+      "scope": ["string.quoted", "variable.other.readwrite.js"],
+      "settings": {
+        "foreground": "#8dec95"
+      }
+    },
+    {
       "name": "Number",
       "scope": "constant.numeric",
       "settings": {
@@ -161,9 +168,9 @@
       "name": "Keywords and Storage types",
       "scope": [
         "keyword",
-        "variable.language.this",
         "storage.type",
-        "storage.modifier"
+        "storage.modifier",
+        "variable.language.this"
       ],
       "settings": {
         "foreground": "#00bff9",
@@ -176,6 +183,20 @@
       "settings": {
         "foreground": "#00bff9",
         "fontStyle": ""
+      }
+    },
+    {
+      "name": "Storage",
+      "scope": [
+        "storage",
+        "meta.var.expr",
+        "meta.class meta.method.declaration meta.var.expr storage.type.js",
+        "storage.type.property.js",
+        "storage.type.property.ts"
+      ],
+      "settings": {
+        "foreground": "#c792ea",
+        "fontStyle": "italic"
       }
     },
     {
@@ -199,6 +220,13 @@
       "settings": {
         "fontStyle": "",
         "foreground": "#f7ecb5"
+      }
+    },
+    {
+      "name": "Support Variable Property",
+      "scope": "support.variable.property",
+      "settings": {
+        "foreground": "#7fdbca"
       }
     },
     {
