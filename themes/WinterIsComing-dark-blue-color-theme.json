@@ -110,6 +110,7 @@
       "name": "String Quoted",
       "scope": ["string.quoted", "variable.other.readwrite.js"],
       "settings": {
+        "fontStyle": "",
         "foreground": "#8dec95"
       }
     },
@@ -152,7 +153,7 @@
       "name": "Variable",
       "scope": "variable",
       "settings": {
-        "fontStyle": "",
+        "fontStyle": "italic",
         "foreground": "#a4ceee"
       }
     },
@@ -182,7 +183,7 @@
       "scope": ["keyword.operator"],
       "settings": {
         "foreground": "#00bff9",
-        "fontStyle": ""
+        "fontStyle": "italic"
       }
     },
     {
@@ -197,6 +198,18 @@
       "settings": {
         "foreground": "#c792ea",
         "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "JavaScript module imports and exports",
+      "scope": [
+        "variable.other.meta.import.js",
+        "meta.import.js variable.other",
+        "variable.other.meta.export.js",
+        "meta.export.js variable.other"
+      ],
+      "settings": {
+        "foreground": "#8dec95"
       }
     },
     {
@@ -233,7 +246,7 @@
       "name": "Function name",
       "scope": "entity.name.function",
       "settings": {
-        "fontStyle": "",
+        "fontStyle": "italic",
         "foreground": "#f7ecb5"
       }
     },
@@ -421,7 +434,8 @@
       "name": "Quotes",
       "scope": "markup.quote",
       "settings": {
-        "foreground": "#78bd65"
+        "foreground": "#78bd65",
+        "fontStyle": "italic"
       }
     },
     {
