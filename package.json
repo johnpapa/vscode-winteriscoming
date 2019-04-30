@@ -48,6 +48,11 @@
         "label": "Winter is Coming (Light)",
         "uiTheme": "vs",
         "path": "./themes/WinterIsComing-light-color-theme.json"
+      },
+      {
+        "label": "Winter is Coming (Dark) (unsupported)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/WinterIsComing-dark-color-theme.json"
       }
     ]
   }
