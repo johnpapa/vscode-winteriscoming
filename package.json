@@ -50,7 +50,7 @@
         "path": "./themes/WinterIsComing-light-color-theme.json"
       },
       {
-        "label": "Winter is Coming (Dark) (unsupported)",
+        "label": "Winter is Coming (Dark Black)",
         "uiTheme": "vs-dark",
         "path": "./themes/WinterIsComing-dark-color-theme.json"
       }
