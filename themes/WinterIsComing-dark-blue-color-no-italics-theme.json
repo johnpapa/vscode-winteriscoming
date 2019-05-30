@@ -663,6 +663,7 @@
     "tab.activeForeground": "#d2dee7",
     "tab.inactiveBackground": "#010e1a",
     "tab.inactiveForeground": "#5f7e97",
+    "tab.activeBorderTop": "#219fd5",
     "terminal.ansiBlack": "#011627",
     "textLink.foreground": "#219fd5",
     "textLink.activeForeground": "#98c8ed",
