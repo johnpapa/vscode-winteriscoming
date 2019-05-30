@@ -1,11 +1,12 @@
 # Winter is Coming theme Changelog
 
-<a name="1.1.0"></a>
+<a name="1.1.1"></a>
 
-## 1.1.0 (2019-05-30)
+## 1.1.1 (2019-05-30)
 
 - Added `"tab.activeBorderTop": "#219fd5",`
 - Re-instated the dark black theme. Copied the dark blue theme to dark black and modified the editor background and selection bar colors. This may not be exact as much has been updated.
+- Removed all remaining italics from the "no italics" version of the dark blue theme
 
 <a name="1.0.0"></a>
 
