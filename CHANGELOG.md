@@ -1,5 +1,11 @@
 # Winter is Coming theme Changelog
 
+<a name="1.1.0"></a>
+
+## 1.1.0 (2019-05-30)
+
+- Added `"tab.activeBorderTop": "#219fd5",`
+
 <a name="1.0.0"></a>
 
 ## 1.0.0 (2019-04-27)
