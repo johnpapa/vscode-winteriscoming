@@ -46,7 +46,7 @@ Select the theme and go!
   "editor.cursorBlinking": "smooth",
   "editor.cursorStyle": "line",
   "editor.fontSize": 16,
-  "editor.fontFamily": "Dank Mono, Operator Mono, Fira Code,
+  "editor.fontFamily": "'Dank Mono', 'Operator Mono', 'Fira Code'",
   "editor.fontLigatures": true,
   "editor.formatOnPaste": true,
   "editor.formatOnType": false,
