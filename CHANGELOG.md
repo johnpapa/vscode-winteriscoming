@@ -1,5 +1,22 @@
 # Winter is Coming theme Changelog
 
+<a name="1.1.0"></a>
+
+## 1.1.0 (2019-07-11)
+
+- Modified the highlight colors for the dark themes
+
+```json
+    "editor.hoverHighlightBackground": "#0c4994",
+    "editor.lineHighlightBackground": "#0c499477",
+    "editor.selectionBackground": "#103362",
+    "editor.selectionHighlightBackground": "#103362",
+    "editor.findMatchHighlightBackground": "#103362",
+    "editor.rangeHighlightBackground": "#103362",
+    "editor.wordHighlightBackground": "#103362",
+    "editor.wordHighlightStrongBackground": "#103362",
+```
+
 <a name="1.0.0"></a>
 
 ## 1.0.0 (2019-04-27)
