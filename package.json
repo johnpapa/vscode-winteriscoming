@@ -13,7 +13,7 @@
     "color": "#373436",
     "theme": "dark"
   },
-  "version": "1.1.0",
+  "version": "1.2.0",
   "publisher": "johnpapa",
   "keywords": [
     "Theme",
@@ -48,6 +48,11 @@
         "label": "Winter is Coming (Light)",
         "uiTheme": "vs",
         "path": "./themes/WinterIsComing-light-color-theme.json"
+      },
+      {
+        "label": "Winter is Coming (Dark Black)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/WinterIsComing-dark-color-theme.json"
       }
     ]
   }
