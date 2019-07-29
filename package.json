@@ -53,6 +53,11 @@
         "label": "Winter is Coming (Dark Black)",
         "uiTheme": "vs-dark",
         "path": "./themes/WinterIsComing-dark-color-theme.json"
+      },
+      {
+        "label": "Winter is Coming (Dark Black - No Italics)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/WinterIsComing-dark-color-no-italics-theme.json"
       }
     ]
   }
