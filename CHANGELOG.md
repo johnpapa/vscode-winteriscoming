@@ -1,5 +1,11 @@
 # Winter is Coming theme Changelog
 
+<a name="1.3.0"></a>
+
+## 1.3.0 (2019-07-29)
+
+- Add new version of the dark black theme with "no italics"
+
 <a name="1.2.0"></a>
 
 ## 1.2.0 (2019-07-11)
