@@ -131,7 +131,7 @@
       "name": "Variable",
       "scope": "variable",
       "settings": {
-        "fontStyle": "",
+        "fontStyle": "italic",
         "foreground": "#2f86d2"
       }
     },
@@ -147,7 +147,7 @@
       "name": "Keyword",
       "scope": "keyword",
       "settings": {
-        "fontStyle": "",
+        "fontStyle": "italic",
         "foreground": "#7b30d0"
       }
     },
@@ -164,7 +164,7 @@
       "scope": "storage.type",
       "settings": {
         "foreground": "#0991b6",
-        "fontStyle": ""
+        "fontStyle": "italic"
       }
     },
     {
@@ -186,7 +186,7 @@
       "name": "Function name",
       "scope": "entity.name.function",
       "settings": {
-        "fontStyle": "",
+        "fontStyle": "italic",
         "foreground": "#b1108e"
       }
     },
@@ -325,7 +325,8 @@
       "name": "Quotes",
       "scope": "markup.quote",
       "settings": {
-        "foreground": "#87429A"
+        "foreground": "#87429A",
+        "fontStyle": "italic"
       }
     },
     {
