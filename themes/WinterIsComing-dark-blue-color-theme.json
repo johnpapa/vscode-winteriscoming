@@ -625,7 +625,7 @@
     "list.inactiveSelectionForeground": "#5f7e97",
     "list.invalidItemForeground": "#975f94",
     "list.dropBackground": "#011627",
-    "list.focusBackground": "#0e293f",
+    "list.focusBackground": "#03648a",
     "list.focusForeground": "#ffffff",
     "list.highlightForeground": "#ffffff",
     "list.hoverBackground": "#011627",

@@ -1,5 +1,11 @@
 # Winter is Coming theme Changelog
 
+<a name="1.3.1"></a>
+
+## 1.3.1 (2020-03-13)
+
+- Changed `"list.focusBackground": "#03648a"` as the contrast had changed due to VS Code changes. This applies to all 4 dark themes.
+
 <a name="1.3.0"></a>
 
 ## 1.3.0 (2019-07-29)
