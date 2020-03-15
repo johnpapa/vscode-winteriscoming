@@ -1,11 +1,13 @@
 # Winter is Coming theme Changelog
 
-<a name="1.4.0"></a>
+<a name="1.4.1"></a>
 
-## 1.4.0 (2020-01-21)
+## 1.4.1 (2020-03-15)
 
-- Updated the light theme to sync better with the dark and dark blue theme changes.
-- Added light theme with "no italics"
+- Light theme changes
+  - Updated the light theme to sync better with the dark and dark blue theme changes.
+  - Added light theme with "no italics"
+  - Changed `"gitDecoration.modifiedResourceForeground": "#1857a4"` as git changes were not detectable before. Fixes [#37](https://github.com/johnpapa/vscode-winteriscoming/issues/37)
 
 <a name="1.3.1"></a>
 

@@ -572,7 +572,7 @@
     "editorSuggestWidget.selectedBackground": "#5f7e97",
     "editorHoverWidget.border": "#5f7e97",
     "errorForeground": "#EF5350",
-    "gitDecoration.modifiedResourceForeground": "#2f86d2",
+    "gitDecoration.modifiedResourceForeground": "#1857a4",
     "gitDecoration.untrackedResourceForeground": "#189b2c",
     "input.background": "#eee",
     "input.border": "#5f7e97",
