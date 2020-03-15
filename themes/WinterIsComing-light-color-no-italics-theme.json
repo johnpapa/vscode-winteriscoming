@@ -141,8 +141,7 @@
       "name": "JavaScript Other Variable",
       "scope": "variable.other.object.js",
       "settings": {
-        "foreground": "#828282",
-        "fontStyle": "italic"
+        "foreground": "#828282"
       }
     },
     {
@@ -190,8 +189,7 @@
       "name": "Variable Property Other object property",
       "scope": ["variable.other.object.property"],
       "settings": {
-        "foreground": "#fa841d",
-        "fontStyle": "italic"
+        "foreground": "#fa841d"
       }
     },
     {
@@ -240,16 +238,14 @@
       "name": "Keywords and Storage types",
       "scope": ["keyword", "storage.type", "storage.modifier", "variable.language.this"],
       "settings": {
-        "foreground": "#0991b6",
-        "fontStyle": "italic"
+        "foreground": "#0991b6"
       }
     },
     {
       "name": "Keywords operators",
       "scope": ["keyword.operator"],
       "settings": {
-        "foreground": "#7b30d0",
-        "fontStyle": "italic"
+        "foreground": "#7b30d0"
       }
     },
     {
@@ -262,8 +258,7 @@
         "storage.type.property.ts"
       ],
       "settings": {
-        "foreground": "#c792ea",
-        "fontStyle": "italic"
+        "foreground": "#c792ea"
       }
     },
     {
@@ -393,7 +388,7 @@
       "name": "Invalid",
       "scope": "invalid",
       "settings": {
-        "fontStyle": " italic bold underline",
+        "fontStyle": " bold underline",
         "foreground": "#207bb8"
       }
     },
@@ -402,7 +397,7 @@
       "scope": "invalid.deprecated",
       "settings": {
         "foreground": "#207bb8",
-        "fontStyle": " bold italic underline"
+        "fontStyle": " bold underline"
       }
     },
     {
@@ -491,8 +486,7 @@
       "name": "Quotes",
       "scope": "markup.quote",
       "settings": {
-        "foreground": "#87429A",
-        "fontStyle": "italic"
+        "foreground": "#87429A"
       }
     },
     {
