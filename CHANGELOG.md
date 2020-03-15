@@ -1,5 +1,12 @@
 # Winter is Coming theme Changelog
 
+<a name="1.4.0"></a>
+
+## 1.4.0 (2020-01-21)
+
+- Updated the light theme to sync better with the dark and dark blue theme changes.
+- Added light theme with "no italics"
+
 <a name="1.3.1"></a>
 
 ## 1.3.1 (2020-03-13)
