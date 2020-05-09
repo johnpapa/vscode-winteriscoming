@@ -6,21 +6,31 @@ This extension for Visual Studio Code adds themes titled "Winter is Coming". The
 
 See the [CHANGELOG](CHANGELOG.md) for the latest changes.
 
-## Dark Theme
+The themes also support an italicized version, with fonts that supports cursive italicized fonts.
 
+## Dark Blue Theme
+
+**Dark Blue HTML**
 ![HTML](images/dark-blue-html.png)
 
+**Dark Blue JavaScript**
+![JavaScript](images/dark-blue-js.png)
+
+**Dark Blue TypeScript**
 ![TypeScript](images/dark-blue-ts.png)
 
+**Dark Blue SCSS**
 ![SCSS](images/dark-blue-scss.png)
 
-![Debugging](images/dark-blue-debug.png)
+## Dark Black Theme
 
-The dark theme is best seen with a font that supports cursive italicized fonts
+**Dark Black JavaScript**
+![Dark Black Theme](images/dark-js.png)
 
 ## Light Theme
 
-![Light Theme](images/800-3-light.png)
+**Light JavaScript**
+![Light Theme](images/light-js.png)
 
 ## Usage
 
@@ -39,20 +49,24 @@ Select the theme and go!
 
 ```js
 {
-  "breadcrumbs.enabled": true,
-  "debug.toolBarLocation": "floating",
-  "editor.autoIndent": true,
-  "editor.codeLens": false,
-  "editor.cursorBlinking": "smooth",
+  "editor.autoIndent": "full",
+  "editor.cursorBlinking": "solid",
+  "editor.cursorSmoothCaretAnimation": true,
   "editor.cursorStyle": "line",
   "editor.fontSize": 16,
-  "editor.fontFamily": "'Dank Mono', 'Operator Mono', 'Fira Code'",
+  "editor.fontFamily": "Dank Mono, Fira Code, Inconsolata",
   "editor.fontLigatures": true,
   "editor.formatOnPaste": true,
   "editor.formatOnType": false,
   "editor.formatOnSave": true,
-  "editor.letterSpacing": 0.5,
+  "editor.letterSpacing": 0.3,
   "editor.lineHeight": 25,
+  "editor.minimap.enabled": false,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.suggestSelection": "first",
+  "editor.tabCompletion": "on",
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
   "files.autoSave": "afterDelay",
   "files.autoSaveDelay": 1000,
   "search.showLineNumbers": true,
