@@ -1,8 +1,8 @@
 # Winter is Coming theme Changelog
 
-<a name="1.4.2"></a>
+<a name="1.4.3"></a>
 
-## 1.4.2 (2020-05-09)
+## 1.4.3 (2020-05-09)
 
 - Updated images in the README
 
