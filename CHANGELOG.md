@@ -2,6 +2,10 @@
 
 <a name="1.4.3"></a>
 
+## 1.4.4 (2021-03-08)
+
+- Added `"quickInput.list.focusBackground": "#219fd5",` as the dark and blue themes had low contrast for the command palette pick lists
+
 ## 1.4.3 (2020-05-09)
 
 - Updated images in the README

@@ -636,6 +636,7 @@
     "peekViewTitleDescription.foreground": "#697098",
     "peekViewTitleLabel.foreground": "#cecece",
     "pickerGroup.border": "#219fd544",
+    "quickInput.list.focusBackground": "#219fd5",
     "scrollbar.shadow": "#010b14",
     "scrollbarSlider.activeBackground": "#084d8180",
     "scrollbarSlider.background": "#084d8180",
