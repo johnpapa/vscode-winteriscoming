@@ -1,4 +1,5 @@
 {
+  "$schema": "vscode://schemas/color-theme",
   "name": "Winter Is Coming",
   "type": "dark",
   "tokenColors": [
