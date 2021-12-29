@@ -1,4 +1,5 @@
 {
+  "$schema": "vscode://schemas/color-theme",
   "name": "Winter Is Coming",
   "type": "dark",
   "tokenColors": [
@@ -160,7 +161,7 @@
       "name": "JavaScript Other Variable",
       "scope": "variable.other.object.js",
       "settings": {
-        "foreground": "#d6deeb",
+        "foreground": "#d6deeb"
       }
     },
     {
@@ -211,7 +212,7 @@
       "name": "Variable Property Other object property",
       "scope": ["variable.other.object.property"],
       "settings": {
-        "foreground": "#f7ecb5",
+        "foreground": "#f7ecb5"
       }
     },
     {
@@ -265,14 +266,14 @@
         "variable.language.this"
       ],
       "settings": {
-        "foreground": "#00bff9",
+        "foreground": "#00bff9"
       }
     },
     {
       "name": "Keywords operators",
       "scope": ["keyword.operator"],
       "settings": {
-        "foreground": "#00bff9",
+        "foreground": "#00bff9"
       }
     },
     {
@@ -285,7 +286,7 @@
         "storage.type.property.ts"
       ],
       "settings": {
-        "foreground": "#c792ea",
+        "foreground": "#c792ea"
       }
     },
     {
@@ -519,7 +520,7 @@
       "name": "Quotes",
       "scope": "markup.quote",
       "settings": {
-        "foreground": "#78bd65",
+        "foreground": "#78bd65"
       }
     },
     {
