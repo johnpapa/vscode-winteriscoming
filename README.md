@@ -1,5 +1,7 @@
 # Winter is Coming
 
+[![AI-Ready](https://img.shields.io/badge/AI--Ready-AGENTS.md-blue?logo=githubcopilot)](AGENTS.md)
+
 This extension for Visual Studio Code adds themes titled "Winter is Coming". There are dark, dark with no italics, and light themes.
 
 > I personally use the dark themes for most occasions, but find the light theme good on some dimmer projectors when I present.
