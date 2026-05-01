@@ -1,5 +1,7 @@
 # Winter is Coming
 
+[![AI Ready](https://img.shields.io/badge/AI--Ready-yes-brightgreen?style=flat)](https://github.com/johnpapa/ai-ready)
+
 This extension for Visual Studio Code adds themes titled "Winter is Coming". There are dark, dark with no italics, and light themes.
 
 > I personally use the dark themes for most occasions, but find the light theme good on some dimmer projectors when I present.
@@ -96,3 +98,9 @@ Credit where credit is due ... this theme was inspired by the themes Visual Stud
 Authored by [John Papa](https://twitter.com/john_papa)
 
 Light theme co-authored by [Brian Clark](https://twitter.com/_clarkio)
+
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute, including setup, testing, and PR conventions.
+
+For the full contributor guide (repo structure, theme conventions, how to add a new variant), see [AGENTS.md](AGENTS.md).

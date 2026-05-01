@@ -1,0 +1,78 @@
+name: Bug Report
+description: Report a color or contrast issue with the theme
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report an issue! Please fill out the details below.
+
+  - type: dropdown
+    id: theme-variant
+    attributes:
+      label: Theme Variant
+      description: Which theme variant are you using?
+      options:
+        - Winter is Coming (Dark Blue)
+        - Winter is Coming (Dark Blue - No Italics)
+        - Winter is Coming (Dark Black)
+        - Winter is Coming (Dark Black - No Italics)
+        - Winter is Coming (Light)
+        - Winter is Coming (Light - No Italics)
+    validations:
+      required: true
+
+  - type: input
+    id: vscode-version
+    attributes:
+      label: VS Code Version
+      description: "Run `code --version` or check Help > About"
+      placeholder: "e.g., 1.95.0"
+    validations:
+      required: true
+
+  - type: input
+    id: extension-version
+    attributes:
+      label: Extension Version
+      description: "Check Extensions sidebar for the installed version"
+      placeholder: "e.g., 1.4.4"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: What happened?
+      description: Describe the color or contrast issue you're seeing
+      placeholder: "e.g., JSON string values are hard to read against the background"
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+      description: What did you expect to see instead?
+    validations:
+      required: true
+
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Screenshot
+      description: If possible, attach a screenshot showing the issue
+
+  - type: input
+    id: language
+    attributes:
+      label: Programming Language
+      description: Which language file were you editing when you noticed the issue?
+      placeholder: "e.g., TypeScript, HTML, Python"
+
+  - type: input
+    id: os
+    attributes:
+      label: Operating System
+      placeholder: "e.g., macOS 15, Windows 11, Ubuntu 24.04"

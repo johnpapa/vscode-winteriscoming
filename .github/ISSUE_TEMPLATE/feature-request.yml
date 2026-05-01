@@ -1,0 +1,58 @@
+name: Feature Request
+description: Suggest a new color, theme variant, or improvement
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Have an idea for improving the theme? We'd love to hear it!
+
+  - type: dropdown
+    id: request-type
+    attributes:
+      label: Request Type
+      description: What kind of change are you suggesting?
+      options:
+        - New color / token color change
+        - New theme variant
+        - Contrast / accessibility improvement
+        - UI element color change
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Describe the change you'd like to see
+      placeholder: "e.g., I'd like Python decorators to use the purple accent color instead of white"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: theme-variant
+    attributes:
+      label: Which theme(s) should this apply to?
+      multiple: true
+      options:
+        - Winter is Coming (Dark Blue)
+        - Winter is Coming (Dark Blue - No Italics)
+        - Winter is Coming (Dark Black)
+        - Winter is Coming (Dark Black - No Italics)
+        - Winter is Coming (Light)
+        - Winter is Coming (Light - No Italics)
+        - All themes
+
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Screenshot or Example
+      description: If possible, show a before/after or reference image
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives Considered
+      description: Have you tried any workarounds (e.g., `workbench.colorCustomizations`)?
