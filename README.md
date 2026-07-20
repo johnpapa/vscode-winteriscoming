@@ -2,13 +2,20 @@
 
 [![AI Ready](https://img.shields.io/badge/AI--Ready-yes-brightgreen?style=flat)](https://github.com/johnpapa/ai-ready)
 
-This extension for Visual Studio Code adds themes titled "Winter is Coming". There are dark, dark with no italics, and light themes.
+This Visual Studio Code extension adds six **Winter is Coming** theme variants:
+
+- Winter is Coming (Dark Blue)
+- Winter is Coming (Dark Blue - No Italics)
+- Winter is Coming (Dark Black)
+- Winter is Coming (Dark Black - No Italics)
+- Winter is Coming (Light)
+- Winter is Coming (Light - No Italics)
 
 > I personally use the dark themes for most occasions, but find the light theme good on some dimmer projectors when I present.
 
 See the [CHANGELOG](CHANGELOG.md) for the latest changes.
 
-The themes also support an italicized version, with fonts that supports cursive italicized fonts.
+Each base theme also has a **No Italics** companion for anyone who prefers the same palette without italic token styling.
 
 ## Dark Blue Theme
 
@@ -34,22 +41,24 @@ The themes also support an italicized version, with fonts that supports cursive 
 **Light JavaScript**
 ![Light Theme](images/light-js.png)
 
-## Usage
-
-Select the theme and go!
-
 ## Installation
 
 1. Open **Extensions** sidebar panel in Visual Studio Code. `View → Extensions`
 1. Search for `Winter is Coming`
 1. Click **Install**
 1. Click **Reload**
-1. File > Preferences > Color Theme > **Winter is Coming (Dark Blue)**
+1. Open **File > Preferences > Color Theme**
+1. Select your preferred **Winter is Coming** variant
 1. Optional: Use the recommended settings below for best experience
+
+## Notes
+
+- If you want VS Code to theme the title bar and related chrome where supported, set `"window.titleBarStyle": "custom"`.
+- The **No Italics** variants keep the same colors as their paired themes without any italic token rules.
 
 ## Recommended Settings
 
-```js
+```jsonc
 {
   "editor.autoIndent": "full",
   "editor.cursorBlinking": "solid",
@@ -73,15 +82,15 @@ Select the theme and go!
   "files.autoSaveDelay": 1000,
   "search.showLineNumbers": true,
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorCustomizations": {},
   "workbench.colorTheme": "Winter is Coming (Dark Blue)",
-  "zenMode.centerLayout": false,
+  "window.titleBarStyle": "custom",
+  "zenMode.centerLayout": false
 }
 ```
 
 ## Fonts
 
-I am using a paid font titled **Dank Mono**. **Operator Mono** is also a paid font that is awesome. If you do not have these fonts, use your favorite font. **Fira Code** is a free one that works well too.
+I use **Dank Mono**. **Operator Mono** is another great paid option. If you do not have those fonts, use your favorite font; **Fira Code** is a solid free choice.
 
 ## Feedback
 
@@ -91,7 +100,7 @@ Be nice.
 
 ## Credits
 
-Credit where credit is due ... this theme was inspired by the themes Visual Studio Dark+, Monokai and [Dustin Sander's theme for "An Old Hope"](https://marketplace.visualstudio.com/items?itemName=dustinsanders.an-old-hope-theme-vscode&WT.mc_id=vscodewinteriscoming-github-jopapa). Custom CSS inspired by [Wes Bos](https://twitter.com/wesbos). Blue background for the Dark them inspired by [Sarah Drasner](https://twitter.com/sarah_edo)'s [Night Owl theme](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl&WT.mc_id=vscodewinteriscoming-github-jopapa)
+Credit where credit is due: this theme was inspired by Visual Studio Dark+, Monokai, and [Dustin Sanders' "An Old Hope"](https://marketplace.visualstudio.com/items?itemName=dustinsanders.an-old-hope-theme-vscode&WT.mc_id=vscodewinteriscoming-github-jopapa). Custom CSS inspiration came from [Wes Bos](https://twitter.com/wesbos). The dark blue background was inspired by [Sarah Drasner](https://twitter.com/sarah_edo)'s [Night Owl theme](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl&WT.mc_id=vscodewinteriscoming-github-jopapa).
 
 ## Authors
 
