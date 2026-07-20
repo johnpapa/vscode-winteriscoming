@@ -532,7 +532,7 @@
     "contrastActiveBorder": "#ccc",
     "contrastBorder": "#ccc",
     "foreground": "#1857a4",
-    "debugExceptionWidget.background": "#357ab3",
+    "debugExceptionWidget.background": "#dce9f5",
     "debugToolBar.background": "#fff",
     "diffEditor.insertedTextBackground": "#99b76d23",
     "diffEditor.insertedTextBorder": "#addb6733",
