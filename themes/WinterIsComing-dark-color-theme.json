@@ -574,7 +574,7 @@
     "editor.background": "#282822",
     "editor.foreground": "#a7dbf7",
     "editor.hoverHighlightBackground": "#0c4994",
-    "editor.lineHighlightBackground": "#0c499477",
+    "editor.lineHighlightBackground": "#0c499444",
     "editor.selectionBackground": "#103362",
     "editor.selectionHighlightBackground": "#103362",
     "editor.findMatchHighlightBackground": "#103362",
