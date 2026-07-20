@@ -678,6 +678,7 @@
     "tab.inactiveForeground": "#5f7e97",
     "tab.activeBorderTop": "#219fd5",
     "terminal.ansiBlack": "#282822",
+    "terminal.hoverHighlightBackground": "#219fd544",
     "textLink.foreground": "#219fd5",
     "textLink.activeForeground": "#98c8ed",
     "titleBar.activeBackground": "#112233",

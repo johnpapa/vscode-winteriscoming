@@ -666,6 +666,7 @@
     "statusBarItem.prominentBackground": "#03648a",
     "statusBarItem.prominentHoverBackground": "#03648a",
     "terminal.ansiBlack": "#011627",
+    "terminal.hoverHighlightBackground": "#236ebf33",
     "textLink.foreground": "#236ebf",
     "textLink.activeForeground": "#236ebfcc",
     "titleBar.activeBackground": "#112233",
