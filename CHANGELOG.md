@@ -2,7 +2,18 @@
 
 ## Unreleased
 
+<a name="1.5.0"></a>
+
+## 1.5.0 (2026-07-20)
+
 - Enabled semantic highlighting across all 6 theme variants. Fixes [#45](https://github.com/johnpapa/vscode-winteriscoming/issues/45)
+- Added generic markup token colors for inserted, deleted, and underlined text. Fixes [#57](https://github.com/johnpapa/vscode-winteriscoming/issues/57)
+- Added secondary button colors across all six theme variants. Fixes [#61](https://github.com/johnpapa/vscode-winteriscoming/issues/61)
+- Added a full terminal palette, including ANSI colors and terminal hover highlight colors, across all six theme variants. Fixes [#46](https://github.com/johnpapa/vscode-winteriscoming/issues/46) and [#66](https://github.com/johnpapa/vscode-winteriscoming/issues/66)
+- Added muted inlay hint colors across all six theme variants. Fixes [#68](https://github.com/johnpapa/vscode-winteriscoming/issues/68)
+- Reduced dark-theme line highlight opacity to better distinguish it from selections. Fixes [#70](https://github.com/johnpapa/vscode-winteriscoming/issues/70)
+- Improved debug exception contrast in the light theme variants. Fixes [#47](https://github.com/johnpapa/vscode-winteriscoming/issues/47)
+- Added explicit dropdown and focus glow colors across all six theme variants. Fixes [#76](https://github.com/johnpapa/vscode-winteriscoming/issues/76)
 - Added GitHub Copilot repo configuration with `.mcp.json` and `.github/workflows/copilot-setup-steps.yml`
 - Updated GitHub Actions dependencies for the packaging workflow
 
