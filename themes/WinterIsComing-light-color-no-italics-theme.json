@@ -498,6 +498,30 @@
       }
     },
     {
+      "name": "Markup Deleted",
+      "scope": "markup.deleted",
+      "settings": {
+        "fontStyle": "strikethrough",
+        "foreground": "#b31d28"
+      }
+    },
+    {
+      "name": "Markup Inserted",
+      "scope": "markup.inserted",
+      "settings": {
+        "fontStyle": "",
+        "foreground": "#22863a"
+      }
+    },
+    {
+      "name": "Markup Underline",
+      "scope": "markup.underline",
+      "settings": {
+        "fontStyle": "underline",
+        "foreground": "#207bb8"
+      }
+    },
+    {
       "name": "Dockerfile",
       "scope": "source.dockerfile",
       "settings": {

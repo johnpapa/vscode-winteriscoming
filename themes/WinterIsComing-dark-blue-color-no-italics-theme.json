@@ -161,7 +161,7 @@
       "name": "JavaScript Other Variable",
       "scope": "variable.other.object.js",
       "settings": {
-        "foreground": "#d6deeb",
+        "foreground": "#d6deeb"
       }
     },
     {
@@ -528,6 +528,30 @@
       "scope": "meta.link",
       "settings": {
         "foreground": "#78BD65"
+      }
+    },
+    {
+      "name": "Markup Deleted",
+      "scope": "markup.deleted",
+      "settings": {
+        "fontStyle": "strikethrough",
+        "foreground": "#f97583"
+      }
+    },
+    {
+      "name": "Markup Inserted",
+      "scope": "markup.inserted",
+      "settings": {
+        "fontStyle": "",
+        "foreground": "#addb67"
+      }
+    },
+    {
+      "name": "Markup Underline",
+      "scope": "markup.underline",
+      "settings": {
+        "fontStyle": "underline",
+        "foreground": "#6dbdfa"
       }
     },
     {
