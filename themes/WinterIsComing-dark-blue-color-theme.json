@@ -1,6 +1,7 @@
 {
   "name": "Winter Is Coming",
   "type": "dark",
+  "semanticHighlighting": true,
   "tokenColors": [
     {
       "settings": {
