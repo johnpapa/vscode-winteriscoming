@@ -1,5 +1,11 @@
 # Winter is Coming theme Changelog
 
+<a name="1.4.5"></a>
+
+## 1.4.5 (2026-07-20)
+
+- Reduced `editor.lineHighlightBackground` opacity in all four dark theme variants from `#0c499477` to `#0c499444` so the current line is clearly distinct from selected text. Fixes [#70](https://github.com/johnpapa/vscode-winteriscoming/issues/70)
+
 <a name="1.4.3"></a>
 
 ## 1.4.4 (2021-03-08)
