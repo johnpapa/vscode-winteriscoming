@@ -1,5 +1,12 @@
 # Winter is Coming theme Changelog
 
+<a name="1.4.5"></a>
+
+## 1.4.5 (2026-07-20)
+
+- Added a full terminal color palette to all six theme variants (dark blue, dark black, and light — each with and without italics). Closes [#66](https://github.com/johnpapa/vscode-winteriscoming/issues/66)
+  - Adds `terminal.background`, `terminal.foreground`, `terminalCursor.foreground`, `terminal.selectionBackground`, and the complete ANSI 16-color palette (`terminal.ansi*` and `terminal.ansiBright*`) to every theme file.
+
 <a name="1.4.3"></a>
 
 ## 1.4.4 (2021-03-08)
