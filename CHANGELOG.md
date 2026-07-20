@@ -1,5 +1,11 @@
 # Winter is Coming theme Changelog
 
+## Unreleased
+
+- Enabled semantic highlighting across all 6 theme variants. Fixes [#45](https://github.com/johnpapa/vscode-winteriscoming/issues/45)
+- Added GitHub Copilot repo configuration with `.mcp.json` and `.github/workflows/copilot-setup-steps.yml`
+- Updated GitHub Actions dependencies for the packaging workflow
+
 <a name="1.4.3"></a>
 
 ## 1.4.4 (2021-03-08)
