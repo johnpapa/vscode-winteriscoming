@@ -1,5 +1,9 @@
 # Winter is Coming theme Changelog
 
+## 1.4.5 (2026-07-20)
+
+- Added muted `editorInlayHint` colors (`foreground`, `background`, `typeForeground`, `typeBackground`, `parameterForeground`, `parameterBackground`) to all six theme variants so VS Code inlay hints are visible but not eye-popping. Fixes [#68](https://github.com/johnpapa/vscode-winteriscoming/issues/68)
+
 <a name="1.4.3"></a>
 
 ## 1.4.4 (2021-03-08)
